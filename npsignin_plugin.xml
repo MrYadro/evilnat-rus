@@ -1,0 +1,4 @@
+<!-- npsignin_plugin language strings -->
+<!-- Translate ONLY string inside <Text name="xxxxxxxxxxx">TRANSLATE THIS</Text> -->
+<Text name="System_information_1">Отключить системные вызовы для входа в PlayStation™Network</Text>
+<Text name="msg_signin_psn">PlayStation™Network: отключен</Text>

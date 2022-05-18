@@ -1,0 +1,307 @@
+<!-- explore_plugin_full language strings -->
+<!-- Translate ONLY string inside <Text name="xxxxxxxxxxx">TRANSLATE THIS</Text> -->
+<Text name="msg_tool_package_file"><![CDATA[★ Package Manager]]></Text>
+<Text name="msg_tool_package_file_info">Manage your PlayStation™Network Content and Homebrew packages.</Text>
+<Text name="msg_tool_rebug_file"><![CDATA[★ Rebug Essentials]]></Text>
+<Text name="msg_tool_rebug_file_info">INSTALL essential tools to fully enjoy the REBUG experience.</Text>
+<Text name="msg_tool_psn_file"><![CDATA[★ PlayStation™Network Content]]></Text>
+<Text name="msg_tool_psn_file_info">Manage your downloaded PlayStation™Network Content.</Text>
+<Text name="msg_tool_install_file_info">INSTALL package files from Storage Devices and your PS3™.</Text>
+<Text name="msg_tool_delete_file"><![CDATA[★ Delete Package Files]]></Text>
+<Text name="msg_tool_delete_file_info">DELETE package files from Storage Devices and your PS3™.</Text>
+<Text name="msg_tool_hdd0_file">PS3™ System Storage</Text>
+<Text name="msg_tool_hdd0_install_info">INSTALL from [dev_hdd0/packages] directory on your PS3™.</Text>
+<Text name="msg_tool_hdd0_delete_info">DELETE from [dev_hdd0/packages] directory on your PS3™.</Text>
+<Text name="msg_tool_usb_file">Package Directory</Text>
+<Text name="msg_tool_usb_install_info">INSTALL from [packages] directory on your Storage Device.</Text>
+<Text name="msg_tool_usb_delete_info">DELETE from [packages] directory on your Storage Device.</Text>
+<Text name="msg_tool_og_file">Standard</Text>
+<Text name="msg_tool_og_install_info">INSTALL from the [root] of your Storage Device.</Text>
+<Text name="msg_tool_og_delete_info">DELETE from the [root] of your Storage Device.</Text>
+<Text name="msg_tool_no_package">No package files found.</Text>
+<Text name="msg_tool_no_psn_content">No PlayStation™Network Content found.</Text>
+<Text name="msg_cfw_settings_title"><![CDATA[★ Custom Firmware Tools]]></Text>
+<Text name="msg_fsm_tools_title">Advanced Service Tools</Text>
+<Text name="msg_basic_tools_title">Basic Tools</Text>
+<Text name="msg_cobra_tools_title">Cobra Tools</Text>
+<Text name="msg_dump_tools_title">Dump Tools</Text>
+<Text name="msg_recovery_menu_title">Service Tools</Text>
+<Text name="msg_ingame_settings_title">In-Game Settings</Text>
+<Text name="msg_fan_settings_title">FAN Tools</Text>
+<Text name="msg_fan_ps2_settings_title">PS2 FAN</Text>
+<Text name="msg_soft_reboot_action_title">Soft Reboot</Text>
+<Text name="msg_hard_reboot_action_title">Hard Reboot</Text>
+<Text name="msg_lv2_reboot_action_title">Reboot LV2</Text>
+<Text name="msg_fan_speed_title">FAN Speed</Text>
+<Text name="msg_fan_speed_info">Shows current FAN speed  </Text>
+<Text name="msg_show_temp_title">PS3 Temperature</Text>
+<Text name="msg_show_temp_info">Shows current CPU and RSX temperature  </Text>
+<Text name="msg_show_idps_title">Show IDPS</Text>
+<Text name="msg_show_idps_info">Shows current IDPS  </Text>
+<Text name="msg_show_psid_title">Show PSID</Text>
+<Text name="msg_show_psid_info">Shows current PSID  </Text>
+<Text name="msg_cobra_data_title">Cobra Information</Text>
+<Text name="msg_cobra_data_info">Shows current Cobra information  </Text>
+<Text name="msg_cobra_mode_title">Toggle Cobra</Text>
+<Text name="msg_cobra_mode_info">Enables or disables Cobra (reboot is required)  </Text>
+<Text name="msg_fan_mode_disabled_title">Control FAN Mode: DISABLED</Text>
+<Text name="msg_fan_mode_disabled_info">Disables Control FAN  </Text>
+<Text name="msg_fan_mode_syscon_title">Control FAN Mode: SYSCON</Text>
+<Text name="msg_fan_mode_syscon_info">Allows the PS3's SYSCON to control FAN speed  </Text>
+<Text name="msg_fan_mode_payload_title">Control FAN Mode: PAYLOAD</Text>
+<Text name="msg_fan_mode_payload_info">Enables Cobra's Control FAN payload  </Text>
+<Text name="msg_fan_mode_manual_title">Control FAN Mode: MANUAL</Text>
+<Text name="msg_fan_mode_manual_info">Set Cobra FAN speed to 0x70  </Text>
+<Text name="msg_fan_mode_max_title">Control FAN Mode: MAX</Text>
+<Text name="msg_fan_mode_max_info">Set Cobra FAN speed to 0xFF  </Text>
+<Text name="msg_fan_ps2mode_disabled_title">PS2 FAN Mode: DISABLED</Text>
+<Text name="msg_fan_ps2mode_disabled_info">Disables Control FAN on PS2 game  </Text>
+<Text name="msg_fan_ps2mode_syscon_title">PS2 FAN Mode: SYSCON</Text>
+<Text name="msg_fan_ps2mode_syscon_info">Allows the PS3's SYSCON to control FAN speed on PS2 game  </Text>
+<Text name="msg_fan_ps2mode_40_title">PS2 FAN Mode: 40%</Text>
+<Text name="msg_fan_ps2mode_40_info">Sets FAN speed to 0x66 on PS2 game  
+	  There is no Control FAN in a PS2 game, select with caution  </Text>
+<Text name="msg_fan_ps2mode_50_title">PS2 FAN Mode: 50%</Text>
+<Text name="msg_fan_ps2mode_50_info">Sets FAN speed to 0x80 on PS2 game  
+	  There is no Control FAN in a PS2 game, select with caution  </Text>
+<Text name="msg_fan_ps2mode_60_title">PS2 FAN Mode: 60%</Text>
+<Text name="msg_fan_ps2mode_60_info">Sets FAN speed to 0x9A on PS2 game  
+	  There is no Control FAN in a PS2 game, select with caution  </Text>
+<Text name="msg_fan_ps2mode_70_title">PS2 FAN Mode: 70%</Text>
+<Text name="msg_fan_ps2mode_70_info">Sets FAN speed to 0xB4 on PS2 game  
+	  There is no Control FAN in a PS2 game, select with caution  </Text>
+<Text name="msg_fan_ps2mode_80_title">PS2 FAN Mode: 80%</Text>
+<Text name="msg_fan_ps2mode_80_info">Sets FAN speed to 0xCE on PS2 game  
+	  There is no Control FAN in a PS2 game, select with caution  </Text>
+<Text name="msg_fan_ps2mode_90_title">PS2 FAN Mode: 90%</Text>
+<Text name="msg_fan_ps2mode_90_info">Sets FAN speed to 0xE8 on PS2 game  
+	  There is no Control FAN in a PS2 game, select with caution  </Text>
+<Text name="msg_view_log_title">View Log</Text>
+<Text name="msg_view_log_info">http://localhost/dev_hdd0/tmp/cfw_settings.log (webMAN MOD is required for this function)</Text>
+<Text name="msg_clean_log_title">Clean Log File</Text>
+<Text name="msg_clean_log_info">Resets /dev_hdd0/tmp/cfw_settings.log file  </Text>
+<Text name="msg_dump_idps_title">Dump IDPS</Text>
+<Text name="msg_dump_idps_info">Saves IDPS to log file  </Text>
+<Text name="msg_dump_psid_title">Dump PSID</Text>
+<Text name="msg_dump_psid_info">Saves PSID to log file  </Text>
+<Text name="msg_log_klic_title">Log KLicense usage</Text>
+<Text name="msg_log_klic_info">Saves filename and klicensee to log file  </Text>
+<Text name="msg_log_secureid_title">Log Secure File ID usage</Text>
+<Text name="msg_log_secureid_info">Writes save data name and file ID key to log file  </Text>
+<Text name="msg_dump_disc_key_title">Dump Disc Hash Key</Text>
+<Text name="msg_dump_disc_key_info">Retrieves disc hash key from an ORIGINAL game disc  </Text>
+<Text name="msg_backup_registry_title">Backup xRegistry.sys</Text>
+<Text name="msg_backup_registry_info">Creates a backup of xRegistry.sys to /dev_usb or /dev_hdd0  </Text>
+<Text name="msg_applicable_version_title">Display Applicable Version</Text>
+<Text name="msg_applicable_version_info">Displays minimum downgrade version  </Text>
+<Text name="msg_fs_check_title">Check File System</Text>
+<Text name="msg_fs_check_info">Reboots and allows you to check and repair filesystem  </Text>
+<Text name="msg_rebuild_db_title">Rebuild Database</Text>
+<Text name="msg_rebuild_db_info">Reboots with Database rebuilding flag set  </Text>
+<Text name="msg_recovery_mode_title">Toggle Recovery Mode</Text>
+<Text name="msg_recovery_mode_info">Reboot to Recovery Mode (Not supported on NAND models!)  </Text>
+<Text name="msg_rsod_fix_title">RSOD fix</Text>
+<Text name="msg_rsod_fix_info">Re-initialize VTRM-Region to attempt to fix RSOD  </Text>
+<Text name="msg_enable_hvdbg_title">Enable HV Proc Output</Text>
+<Text name="msg_service_mode_title">Toggle Factory Service Mode</Text>
+<Text name="msg_service_mode_info">Enter/Exit Factory Service Mode (**DO NOT INSTALL CFW WHILE ON FSM**)  </Text>
+<Text name="msg_remarry_bd_title">Remarry Bluray Drive</Text>
+<Text name="msg_remarry_bd_info">Requires: Enter to FSM and copy "eid_root_key" to /dev_usb  </Text>
+<Text name="msg_usb_firm_loader_title">USB Firmware Loader</Text>
+<Text name="msg_usb_firm_loader_info">Redirect /dev_flash access to a mounted /dev_usb</Text>
+<Text name="msg_enable_screenshot_title">Enable In-Game Screenshot</Text>
+<Text name="msg_enable_recording_title">Enable Gameplay Recording</Text>
+<Text name="msg_override_sfo_title">Override Disc SFO</Text>
+<Text name="msg_override_sfo_info">SFO Attribute to enables RemotePlay + SystemBGM on Disc Games with no Updates</Text>
+<Text name="msg_toggle_dlna_title">Toggle DLNA</Text>
+<Text name="msg_create_syscalls_title">Create Syscalls</Text>
+<Text name="msg_create_syscalls_info">Creates syscalls 6, 7, 8, 9, 10, 11, 15, 35  </Text>
+<Text name="msg_shutdown_action_title">Turn Off</Text>
+<Text name="msg_shutdown_action_info">Turns off the PS3</Text>
+<Text name="msg_toggle_coldboot_title">Toggle Coldboot</Text>
+<Text name="msg_toggle_coldboot_info">Toggles between custom/original coldboot.raf  </Text>
+<Text name="msg_power_options_title">Power Options</Text>
+<Text name="msg_hard_reboot_action_info">Reboots the PS3 completely</Text>
+<Text name="msg_soft_reboot_action_info">Reboots the PS3 softly</Text>
+<Text name="msg_lv2_reboot_action_info">Reboots the LV2</Text>
+<Text name="msg_allow_restore_sc_title">Allow Restore Syscalls</Text>
+<Text name="msg_allow_restore_sc_info">Allows restoring syscalls through "System Update"  </Text>
+<Text name="msg_toggle_sysconf_title">Toggle System Version</Text>
+<Text name="msg_toggle_sysconf_info">Toggles between custom/original system version in "System Information"  </Text>
+<Text name="msg_qa_tools_title">QA Tools</Text>
+<Text name="msg_check_qa_title">Check QA Flags</Text>
+<Text name="msg_check_qa_info">Check if QA flags are enabled or disabled  </Text>
+<Text name="msg_qa_enable_title">Enable QA Flags</Text>
+<Text name="msg_qa_enable_info">Enables QA Flags through "Network Settings" (Button combo: +++++)  </Text>
+<Text name="msg_qa_disable_title">Disable QA Flags</Text>
+<Text name="msg_qa_disable_info">Disables QA Flags through "Network Settings"  </Text>
+<Text name="msg_patch_savedata_title">Convert savedata</Text>
+<Text name="msg_patch_savedata_info">Converts savedata from "/dev_usbXXX/PS3/SAVEDATA" to your own savedata  </Text>
+<Text name="msg_show_accountid_title">Show accountID</Text>
+<Text name="msg_show_accountid_info">Shows current user's accountID  </Text>
+<Text name="msg_patch_accountid_title">Create accountID</Text>
+<Text name="msg_patch_accountid_info">Creates a fake accountID for current user's in xRegistry  </Text>
+<Text name="msg_patch_accountid_overwrite_title">Overwrite accountID</Text>
+<Text name="msg_patch_accountid_overwrite_info"> Overwrites current user's accountID with a fake one in xRegistry  </Text>
+<Text name="msg_button_assignment_title">Button Assignment</Text>
+<Text name="msg_button_assignment_info">Switches  and  buttons  </Text>
+<Text name="msg_xreg_settings_title">xRegistry Tools</Text>
+<Text name="msg_skip_rif_title">Skip license creation</Text>
+<Text name="msg_skip_rif_info">Skips overwriting license file (RIF) if it already exists  </Text>
+<Text name="msg_activate_account_title">Activate account</Text>
+<Text name="msg_activate_account_info">Creates act.dat file in the current local account  </Text>
+<Text name="msg_remove_license_title">Disable account</Text>
+<Text name="msg_remove_license_info"> Deletes current user's activation file act.dat permanently  </Text>
+<Text name="msg_backup_license_title">Backup activation file</Text>
+<Text name="msg_backup_license_info">Creates a backup of act.dat to /dev_usb or /dev_hdd0  </Text>
+<Text name="msg_ask_license_action">The current activation file for this account will be permanently removed. Are you sure?
+	
+	Press  to continue or  to go back</Text>
+<Text name="msg_ask_acc_overwrite_action">The current accountID for this account will be overwritten. Are you sure?
+	
+	Press  to continue or  to go back</Text>
+<Text name="msg_ask_fs_check_action">The system will reboot and check filesystem. Are you sure?
+	
+	Press  to continue or  to go back</Text>
+<Text name="msg_ask_fsm_action">The system will reboot and enter in Factory Service Mode. Are you sure?
+
+	  DO NOT INSTALL CFW WHILE ON FACTORY SERVICE MODE  
+	
+	Press  to continue or  to go back</Text>
+<Text name="msg_ask_rsod_fix_action">The system will try to fix RSOD and will reboot. Are you sure?
+	
+	Press  to continue or  to go back</Text>
+<Text name="msg_ask_rebuild_db_action">The system will reboot and rebuild database. Are you sure?
+	
+	Press  to continue or  to go back</Text>
+<Text name="msg_ask_recovery_action">The system will reboot and enter Recovery Mode. Are you sure?
+
+	  This is not the safe mode menu. It is only useful for installing Firmware from recovery  
+	
+	Press  to continue or  to go back</Text>
+<Text name="msg_load_kernel_title">Load LV2 kernel</Text>
+<Text name="msg_load_kernel_info">Loads lv2_kernel.self file from /dev_usb000 or /dev_flash  </Text>
+<Text name="msg_whats_new_title">Toggle "What's New"</Text>
+<Text name="msg_whats_new_info">Toggles "What's New" option in "PlayStation™Network" tab  </Text>
+<Text name="msg_create_rif_title">Create license</Text>
+<Text name="msg_create_rif_info">Creates RIF licenses from RAP files from "x:\exdata"  </Text>
+<Text name="msg_fan_mode_60_title">Maximum temperature: 140°F</Text>
+<Text name="msg_fan_mode_60_info">Sets the FAN speed dynamically to keep the system at a maximum temperature of 140°F  </Text>
+<Text name="msg_fan_mode_65_title">Maximum Temperature: 149°F</Text>
+<Text name="msg_fan_mode_65_info">Sets the FAN speed dynamically to keep the system at a maximum temperature of 149°F  </Text>
+<Text name="msg_fan_mode_70_title">Maximum Temperature: 158°F</Text>
+<Text name="msg_fan_mode_70_info">Sets the FAN speed dynamically to keep the system at a maximum temperature of 158°F  </Text>
+<Text name="msg_fan_mode_75_title">Maximum Temperature: 167°F</Text>
+<Text name="msg_fan_mode_75_info">Sets the FAN speed dynamically to keep the system at a maximum temperature of 167°F  </Text>
+<Text name="msg_fan_dynamic_title">Dynamic FAN Control</Text>
+<Text name="msg_fan_manual_title">Manual Speed</Text>
+<Text name="msg_fan_manual_40_title">Manual Speed: 40%</Text>
+<Text name="msg_fan_manual_40_info">Sets the FAN speed statically at 40% (0x67)  
+	  The chosen speed will be static, it will not be changed at any time automatically  </Text>
+<Text name="msg_fan_manual_45_title">Manual Speed: 45%</Text>
+<Text name="msg_fan_manual_45_info">Sets the FAN speed statically at 45% (0x75)  
+	  The chosen speed will be static, it will not be changed at any time automatically  </Text>
+<Text name="msg_fan_manual_50_title">Manual Speed: 50%</Text>
+<Text name="msg_fan_manual_50_info">Sets the FAN speed statically at 50% (0x80)  
+	  The chosen speed will be static, it will not be changed at any time automatically  </Text>
+<Text name="msg_fan_manual_55_title">Manual Speed: 55%</Text>
+<Text name="msg_fan_manual_55_info">Sets the FAN speed statically at 55% (0x8E)  
+	  The chosen speed will be static, it will not be changed at any time automatically  </Text>
+<Text name="msg_fan_manual_60_title">Manual Speed: 60%</Text>
+<Text name="msg_fan_manual_60_info">Sets the FAN speed statically at 60% (0x9B)  
+	  The chosen speed will be static, it will not be changed at any time automatically  </Text>
+<Text name="msg_fan_manual_65_title">Manual Speed: 65%</Text>
+<Text name="msg_fan_manual_65_info">Sets the FAN speed statically at 65% (0xA8)  
+	  The chosen speed will be static, it will not be changed at any time automatically  </Text>
+<Text name="msg_fan_manual_70_title">Manual Speed: 70%</Text>
+<Text name="msg_fan_manual_70_info">Sets the FAN speed statically at 70% (0xB5)  
+	  The chosen speed will be static, it will not be changed at any time automatically  </Text>
+<Text name="msg_fan_manual_75_title">Manual Speed: 75%</Text>
+<Text name="msg_fan_manual_75_info">Sets the FAN speed statically at 75% (0xC0)  
+	  The chosen speed will be static, it will not be changed at any time automatically  </Text>
+<Text name="msg_fan_manual_80_title">Manual Speed: 80%</Text>
+<Text name="msg_fan_manual_80_info">Sets the FAN speed statically at 80% (0xCE)  
+	  The chosen speed will be static, it will not be changed at any time automatically  </Text>
+<Text name="msg_fan_manual_85_title">Manual Speed: 85%</Text>
+<Text name="msg_fan_manual_85_info">Sets the FAN speed statically at 85% (0xDA)  
+	  The chosen speed will be static, it will not be changed at any time automatically  </Text>
+<Text name="msg_fan_manual_90_title">Manual Speed: 90%</Text>
+<Text name="msg_fan_manual_90_info">Sets the FAN speed statically at 90% (0xE7)  
+	  The chosen speed will be static, it will not be changed at any time automatically  </Text>
+<Text name="msg_fan_manual_95_title">Manual Speed: 95%</Text>
+<Text name="msg_fan_manual_95_info">Sets the FAN speed statically at 95% (0xF4)  
+	  The chosen speed will be static, it will not be changed at any time automatically  </Text>
+<Text name="msg_cobra_version_title">Toggle Cobra Version</Text>
+<Text name="msg_cobra_version_info">Toggles between release and debug versions (reboot is required)  </Text>
+<Text name="msg_psn_tools_title">PSN Tools</Text>
+<Text name="msg_disable_syscalls_title">Disable Syscalls</Text>
+<Text name="msg_disable_syscalls_info">Disables syscalls and remove history files  </Text>
+<Text name="msg_dump_erk_title">Dump ERK</Text>
+<Text name="msg_dump_erk_info">Dumps eid_root_key to /dev_usb or /dev_hdd0/tmp  </Text>
+<Text name="msg_dump_lv2_title">Dump LV2</Text>
+<Text name="msg_dump_lv2_info">Dumps LV2 to /dev_usb or /dev_hdd0/tmp  </Text>
+<Text name="msg_dump_lv1_title">Dump LV1</Text>
+<Text name="msg_dump_lv1_info">Dumps LV1 to /dev_usb or /dev_hdd0/tmp  </Text>
+<Text name="msg_file_manager_title">File Manager</Text>
+<Text name="msg_fm_dev_all_title">All Active Devices</Text>
+<Text name="msg_fm_dev_all_info">Manage all active partitions  </Text>
+<Text name="msg_fm_dev_hdd0_title">Internal Hard Disk Drive 0</Text>
+<Text name="msg_fm_dev_hdd0_info">Manage PS3 files in /dev_hdd0  </Text>
+<Text name="msg_fm_dev_hdd1_title">Internal Hard Disk Drive 1</Text>
+<Text name="msg_fm_dev_hdd1_info">Manage PS3 cached files in /dev_hdd1  </Text>
+<Text name="msg_fm_dev_usb_title">USB Mass Storage Devices</Text>
+<Text name="msg_fm_dev_usb_info">Manage files on your USB devices  </Text>
+<Text name="msg_fm_dev_flash_title">Internal Flash Memory</Text>
+<Text name="msg_fm_dev_flash_info">Manage PS3 internal flash files  </Text>
+<Text name="msg_fm_dev_optical_title">Optical Disc</Text>
+<Text name="msg_fm_dev_optical_info"><![CDATA[Manage optical discs  ]]></Text>
+<Text name="msg_fm_dev_memorycard_title">Memory Cards</Text>
+<Text name="msg_fm_dev_memorycard_info">Manage memory cards  </Text>
+<Text name="msg_fm_dev_usb000_title">/dev_usb000</Text>
+<Text name="msg_fm_dev_usb000_info">Main port (Right hand side)  </Text>
+<Text name="msg_fm_dev_usb001_title">/dev_usb001</Text>
+<Text name="msg_fm_dev_usb001_info">Manage files in /dev_usb001  </Text>
+<Text name="msg_fm_dev_usb002_title">/dev_usb002</Text>
+<Text name="msg_fm_dev_usb002_info">Manage files in /dev_usb002  </Text>
+<Text name="msg_fm_dev_usb003_title">/dev_usb003</Text>
+<Text name="msg_fm_dev_usb003_info">Manage files in /dev_usb003  </Text>
+<Text name="msg_fm_dev_usb004_title">/dev_usb004</Text>
+<Text name="msg_fm_dev_usb004_info">Manage files in /dev_usb004  </Text>
+<Text name="msg_fm_dev_usb005_title">/dev_usb005</Text>
+<Text name="msg_fm_dev_usb005_info">Manage files in /dev_usb005  </Text>
+<Text name="msg_fm_dev_usb006_title">/dev_usb006</Text>
+<Text name="msg_fm_dev_usb006_info">Manage files in /dev_usb006  </Text>
+<Text name="msg_fm_dev_usb007_title">/dev_usb007</Text>
+<Text name="msg_fm_dev_usb007_info">Manage files in /dev_usb007  </Text>
+<Text name="msg_fm_dev_flash_item_title">/dev_flash</Text>
+<Text name="msg_fm_dev_flash_item_info">Main firmware partition (read only)  </Text>
+<Text name="msg_fm_dev_blind_item_title">/dev_blind</Text>
+<Text name="msg_fm_dev_blind_item_info">Main firmware partition (write access enabled)  </Text>
+<Text name="msg_fm_dev_rewrite_item_title">/dev_rewrite</Text>
+<Text name="msg_fm_dev_rewrite_item_info">Main firmware partition (write access enabled)  </Text>
+<Text name="msg_fm_dev_flash2_item_title">/dev_flash2</Text>
+<Text name="msg_fm_dev_flash2_item_info">Secondary flash partition (xregistry etc)  </Text>
+<Text name="msg_fm_dev_flash3_item_title">/dev_flash3</Text>
+<Text name="msg_fm_dev_flash3_item_info">Third flash partition  </Text>
+<Text name="msg_fm_dev_bdvd_title">/dev_bdvd</Text>
+<Text name="msg_fm_dev_bdvd_info"><![CDATA[Blu-Ray Disc  ]]></Text>
+<Text name="msg_fm_app_home_title">/app_home</Text>
+<Text name="msg_fm_app_home_info"><![CDATA[Virtual Blu-Ray Disc  ]]></Text>
+<Text name="msg_fm_dev_ps2disc_title">/dev_ps2disc</Text>
+<Text name="msg_fm_dev_ps2disc_info">PS2 Format Disc  </Text>
+<Text name="msg_fm_dev_ms_title">/dev_ms</Text>
+<Text name="msg_fm_dev_ms_info">Memory Stick Pro Duo  </Text>
+<Text name="msg_fm_dev_sd_title">/dev_sd</Text>
+<Text name="msg_fm_dev_sd_info">Secure Digital  </Text>
+<Text name="msg_fm_dev_cf_title">/dev_cf</Text>
+<Text name="msg_fm_dev_cf_info">Compact Flash  </Text>
+<Text name="msg_cobra_sc8_title">Check Syscall 8</Text>
+<Text name="msg_cobra_sc8_info">Checks Cobra's Syscall 8 status</Text>
+<Text name="msg_mount_dev_blind_title">Toggle /dev_blind</Text>
+<Text name="msg_mount_dev_blind_info">  Mounts /dev_flash as /dev_blind with write permissions (USE WITH CAUTION!)  </Text>
+<Text name="msg_sort_date_title">Sort Games by Name and Date</Text>
+<Text name="msg_sort_date_info">Adds sorting with options for A-Z and New-Old  </Text>
+<Text name="msg_sort_name_title">Sort Games by Name</Text>
+<Text name="msg_sort_name_info">Adds alphabetical sorting with options for A-Z and Z-A  </Text>
+<Text name="msg_sort_creation_title">Sort Games with Standard Options</Text>
+<Text name="msg_sort_creation_info">Adds official sorting with New-Old and Old-New  </Text>
