@@ -127,7 +127,7 @@
 	Скопируйте их через XMB</Text>
 <Text name="msg_savedata_converted2">%d файлы сохранения успешно сконвертированы
 	Скопируйте их через XMB</Text>
-<Text name="msg_savedata_unable_open_dir">Не удалось открыть дерикторию: 
+<Text name="msg_savedata_unable_open_dir">Не удалось открыть деректорию: 
 	%s</Text>
 <Text name="msg_savedata_not_found">Файлы сохранения не найдены</Text>
 <Text name="msg_savedata_userid_fail">Не удалось получить UserID из xRegistry для: %s</Text>
@@ -145,7 +145,7 @@
 <Text name="msg_button_accept_x">Кнопка  [Принять]
 	Перазагрузитесь чтобы применить изменения</Text>
 <Text name="msg_button_accept_o">Кнопка  [Принять]
-	Перазагрузитесь чтобы применить измененияs</Text>
+	Перазагрузитесь чтобы применить изменения</Text>
 <Text name="msg_accountid_searching">Поиск accountID, пожалуйста подождите...</Text>
 <Text name="msg_accountid_overwriting">Перезаписываем accountID, пожалуйста подождите...</Text>
 <Text name="msg_accountid_creating">Создание accountID, пожалуйста подождите...</Text>
