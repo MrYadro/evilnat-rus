@@ -114,8 +114,8 @@
 <Text name="msg_override_sfo_title">Переопределить SFO диска</Text>
 <Text name="msg_override_sfo_info">SFO включает RemotePlay + SystemBGM на дисках с игрой без обновлений</Text>
 <Text name="msg_toggle_dlna_title">Включить DLNA</Text>
-<Text name="msg_create_syscalls_title">Создать Syscalls</Text>
-<Text name="msg_create_syscalls_info">Создает syscalls 6, 7, 8, 9, 10, 11, 15, 35  </Text>
+<Text name="msg_create_syscalls_title">Создать системные вызовы</Text>
+<Text name="msg_create_syscalls_info">Создает системные вызовы 6, 7, 8, 9, 10, 11, 15, 35  </Text>
 <Text name="msg_shutdown_action_title">Выключить</Text>
 <Text name="msg_shutdown_action_info">Выключает PS3</Text>
 <Text name="msg_toggle_coldboot_title">Переключить заставку Coldboot</Text>
@@ -124,8 +124,8 @@
 <Text name="msg_hard_reboot_action_info">Полностью перезагружает PS3</Text>
 <Text name="msg_soft_reboot_action_info">Перезагружает PS3</Text>
 <Text name="msg_lv2_reboot_action_info">Перезагружает LV2</Text>
-<Text name="msg_allow_restore_sc_title">Разрешить восстановить Syscalls</Text>
-<Text name="msg_allow_restore_sc_info">Разрешает восстановить syscalls через "Обновление системы"  </Text>
+<Text name="msg_allow_restore_sc_title">Разрешить восстановить системные вызовы</Text>
+<Text name="msg_allow_restore_sc_info">Разрешает восстановить системные вызовы через "Обновление системы"  </Text>
 <Text name="msg_toggle_sysconf_title">Переключить версию ПО</Text>
 <Text name="msg_toggle_sysconf_info">Переключает между нестандартной/стандартной версией в "Информация о системе"  </Text>
 <Text name="msg_qa_tools_title">Инструменты QA</Text>
@@ -234,8 +234,8 @@
 <Text name="msg_cobra_version_title">Переключить версию Cobra</Text>
 <Text name="msg_cobra_version_info">Переключает между релизной и отладочной версией (требуется перезагрузка)  </Text>
 <Text name="msg_psn_tools_title">Инструменты PSN</Text>
-<Text name="msg_disable_syscalls_title">Отключить Syscalls</Text>
-<Text name="msg_disable_syscalls_info">Отключает syscalls и удаляет файлы истории  </Text>
+<Text name="msg_disable_syscalls_title">Отключить системные вызовы</Text>
+<Text name="msg_disable_syscalls_info">Отключает системные вызовы и удаляет файлы истории  </Text>
 <Text name="msg_dump_erk_title">Сохранить ERK</Text>
 <Text name="msg_dump_erk_info">Сохраняет eid_root_key в	/dev_usb или /dev_hdd0/tmp  </Text>
 <Text name="msg_dump_lv2_title">Сохранить LV2</Text>

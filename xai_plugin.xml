@@ -103,8 +103,8 @@
 <Text name="msg_minimum_downgrade">Минимальный даунгрейд: %x.%02x</Text>
 <Text name="msg_fan_speed">Скорость вентилятора: 0x%X [%i%%]</Text>
 <Text name="msg_fan_temp">[CPU: %u°F] - [RSX: %u°F]</Text>	
-<Text name="msg_syscalls_restore_disabled">Allow restore syscalls выключено</Text>
-<Text name="msg_syscalls_restore_enabled">Allow restore syscalls включено</Text>
+<Text name="msg_syscalls_restore_disabled">Запретить восстановление системных вызовов выключено</Text>
+<Text name="msg_syscalls_restore_enabled">Разрешить восстановление системныех вызовов включено</Text>
 <Text name="msg_skip_rif_disabled">Пропуск создания лицензии выключен</Text>
 <Text name="msg_skip_rif_enabled">Пропуск создания лицензии включен</Text>
 <Text name="msg_account_act_deleted">Файл активации удален успешно</Text>
@@ -193,9 +193,9 @@
 <Text name="msg_cobra_debug_error">Не удалось переименовать отладочную версию</Text>
 <Text name="msg_cobra_rename_error">Не удалось переименовать релизную версию Cobra</Text>
 <Text name="msg_cobra_versions_error">Не удалось найти версии Cobra</Text>	
-<Text name="msg_syscalls_disabled">Syscalls отключены и файлы истории удалены</Text>
-<Text name="msg_syscalls_already_disabled">CFW syscalls уже отключены</Text>
-<Text name="msg_syscalls_disabling_error">Ошибка отключения syscalls</Text>
+<Text name="msg_syscalls_disabled">Системные вызовы отключены и файлы истории удалены</Text>
+<Text name="msg_syscalls_already_disabled">Системные вызовы CFW уже отключены</Text>
+<Text name="msg_syscalls_disabling_error">Ошибка отключения системных вызовов</Text>
 <Text name="msg_hf_error">Ошибка при удалении файлов истории</Text>	
 <Text name="msg_dumping_erk">Сохраняем ERK, пожалуйста подождите...</Text>
 <Text name="msg_dump_erk_fail">Не удалось сохранить ERK. Попробуйте снова</Text>
@@ -210,7 +210,7 @@
 <Text name="msg_lv1_dumped">LV1 сохранен в
 	%s</Text>
 <Text name="msg_lv1_dump_error">Ошибка при сохранении LV1</Text>
-<Text name="msg_cfw_syscalls_disabled">CFW syscalls отключены</Text>
+<Text name="msg_cfw_syscalls_disabled">Системные вызовы CFW отключены</Text>
 <Text name="msg_syscall8_disabled">Syscall 8 отключен или частично отключен</Text>
 <Text name="msg_syscall8_status_enabled">Syscall 8 включен</Text>	
 <Text name="msg_syscall8_status_disabled">Syscall 8 отключен</Text>	
