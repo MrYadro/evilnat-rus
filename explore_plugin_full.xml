@@ -166,10 +166,10 @@
 		
 		Нажмите  для продолжения или  для отмены</Text>
 	<Text name="msg_ask_fsm_action">Система будет перезагружена в Factory Service Mode. Вы уверены?
-	
-			  НЕ УСТАНАВЛИВАЙТЕ CFW В FACTORY SERVICE MODE  
-			
-			Нажмите  для продолжения или  для отмены</Text>
+
+		  НЕ УСТАНАВЛИВАЙТЕ CFW В FACTORY SERVICE MODE  
+		
+		Нажмите  для продолжения или  для отмены</Text>
 	<Text name="msg_ask_rsod_fix_action">Система попытается исправить RSOD и будет перезагружена. Вы уверены?
 		
 		Нажмите  для продолжения или  для отмены</Text>
@@ -309,147 +309,147 @@
 	<Text name="msg_sort_creation_info">Добавляет сортировку от новых к старым и от старых к новым  </Text>
 	<Text name="msg_button_assignment_title">Установка кнопок</Text>
 	<Text name="msg_button_assignment_info">Переключает кнопки  и   </Text>
-	<Text name="msg_dump_ram_title">Dump RAM</Text>
-	<Text name="msg_dump_ram_info">Dumps RAM to /dev_usb or /dev_hdd0/tmp  </Text>
-	<Text name="msg_clock_speeds_title">Check GPU/VRAM clock speed</Text>
-	<Text name="msg_clock_speeds_info">Checks current GPU/VRAM clock speed  </Text>
-	<Text name="msg_led_menu_title">Led Tools</Text>
-	<Text name="msg_led_off_title">Off</Text>
-	<Text name="msg_led_off_info">Turns off the PS3's power LED   </Text>
-	<Text name="msg_led_red_title">Red (Static)</Text>
-	<Text name="msg_led_red_info">Sets the PS3's power LED to static red  </Text>
-	<Text name="msg_led_green_title">Green (Static)</Text>
-	<Text name="msg_led_green_info">Sets the PS3's power LED to static green  </Text>
-	<Text name="msg_led_yellow_title">Yellow (Static)</Text>
-	<Text name="msg_led_yellow_info">Sets the PS3's power LED to static yellow  </Text>
-	<Text name="msg_led_red_bslow_title">Red (Slow blink)</Text>
-	<Text name="msg_led_red_bslow_info">Sets the PS3's power LED to slow blink red  </Text>
-	<Text name="msg_led_green_bslow_title">Green (Slow blink)</Text>
-	<Text name="msg_led_green_bslow_info">Sets the PS3's power LED to slow blink green  </Text>
-	<Text name="msg_led_yellow_bslow_title">Yellow (Slow blink)</Text>
-	<Text name="msg_led_yellow_bslow_info">Sets the PS3's power LED to slow blink yellow  </Text>
-	<Text name="msg_led_red_bfast_title">Red (Fast blink)</Text>
-	<Text name="msg_led_red_bfast_info">Sets the PS3's power LED to fast blink red  </Text>
-	<Text name="msg_led_green_bfast_title">Green (Fast blink)</Text>
-	<Text name="msg_led_green_bfast_info">Sets the PS3's power LED to fast blink green  </Text>
-	<Text name="msg_led_yellow_bfast_title">Yellow (Fast blink)</Text>
-	<Text name="msg_led_yellow_bfast_info">Sets the PS3's power LED to fast blink yellow  </Text>
-	<Text name="msg_led_yellowg_bfast_title">Yellow + Green (Fast blink)</Text>
-	<Text name="msg_led_yellowg_bfast_info">Sets the PS3's power LED to fast blink yellow + green  </Text>
-	<Text name="msg_led_yellowr_bfast_title">Yellow + Red (Fast blink)</Text>
-	<Text name="msg_led_yellowr_bfast_info">Sets the PS3's power LED to fast blink yellow + red  </Text>
-	<Text name="msg_led_yellowg_bslow_title">Yellow + Green (Slow blink)</Text>
-	<Text name="msg_led_yellowg_bslow_info">Sets the PS3's power LED to slow blink yellow + green  </Text>
-	<Text name="msg_led_yellowr_bslow_title">Yellow + Red (Slow blink)</Text>
-	<Text name="msg_led_yellowr_bslow_info">Sets the PS3's power LED to slow blink yellow + red  </Text>
-	<Text name="msg_led_rainbow_title">Rainbow Mode</Text>
-	<Text name="msg_led_rainbow_info">Sets the PS3's power LED to rainbow mode  </Text>
-	<Text name="msg_led_special1_title">Special Mode 1</Text>
-	<Text name="msg_led_special1_info">Sets the PS3's power LED to special mode 1  </Text>
-	<Text name="msg_led_special2_title">Special Mode 2</Text>
-	<Text name="msg_led_special2_info">Sets the PS3's power LED to special mode 2  </Text>
-	<Text name="msg_buzzer_menu_title">Buzzer Tools</Text>
-	<Text name="msg_buzzer_single_title">Single Beep</Text>
-	<Text name="msg_buzzer_single_info">Generates a single beep with the internal buzzer  </Text>
-	<Text name="msg_buzzer_double_title">Double Beep</Text>
-	<Text name="msg_buzzer_double_info">Generates a double beep with the internal buzzer  </Text>
-	<Text name="msg_buzzer_triple_title">Triple Beep</Text>
-	<Text name="msg_buzzer_triple_info">Generates a triple beep with the internal buzzer  </Text>
-	<Text name="msg_buzzer_continuous_title">Continuous Beep</Text>
-	<Text name="msg_buzzer_continuous_info">Generates a continuous beep with the internal buzzer  </Text>
-	<Text name="msg_check_spe_title">Check 8th SPE</Text>
-	<Text name="msg_check_spe_info">Checks if 8th SPE is currently enabled or disabled  </Text>
-	<Text name="msg_toggle_spe_title">Toggle 8th SPE</Text>
-	<Text name="msg_toggle_spe_info">Enables/disables 8th SPE  </Text>
-	<Text name="msg_ask_toggle_spe">Toggling 8th SPE can be dangerous if you don't know what you're doing. Are you sure?
+	<Text name="msg_dump_ram_title">Сохранить RAM</Text>
+	<Text name="msg_dump_ram_info">Сохраняет RAM в /dev_usb или /dev_hdd0/tmp  </Text>
+	<Text name="msg_clock_speeds_title">Проверить частоту GPU/VRAM</Text>
+	<Text name="msg_clock_speeds_info">Проверяет частоту GPU/VRAM  </Text>
+	<Text name="msg_led_menu_title">Инструменты светодиодов</Text>
+	<Text name="msg_led_off_title">Выключить</Text>
+	<Text name="msg_led_off_info">Выключает светодиод питания PS3   </Text>
+	<Text name="msg_led_red_title">Красный (Статичный)</Text>
+	<Text name="msg_led_red_info">Устанавливает светодиот питания в статичный красный  </Text>
+	<Text name="msg_led_green_title">Зеленый (Статичный)</Text>
+	<Text name="msg_led_green_info">Устанавливает светодиот питания в статичный зеленый  </Text>
+	<Text name="msg_led_yellow_title">Желтый (Статичный)</Text>
+	<Text name="msg_led_yellow_info">Устанавливает светодиот питания в статичный желтый  </Text>
+	<Text name="msg_led_red_bslow_title">Красный (Медленное мигание)</Text>
+	<Text name="msg_led_red_bslow_info">Устанавливает светодиот питания в медленно мигающий красный  </Text>
+	<Text name="msg_led_green_bslow_title">Зеленый (Медленное мигание)</Text>
+	<Text name="msg_led_green_bslow_info">Устанавливает светодиот питания в медленно мигающий зеленый  </Text>
+	<Text name="msg_led_yellow_bslow_title">Желтый (Медленное мигание)</Text>
+	<Text name="msg_led_yellow_bslow_info">Устанавливает светодиот питания в медленно мигающий желтый  </Text>
+	<Text name="msg_led_red_bfast_title">Красный (Быстрое мигание)</Text>
+	<Text name="msg_led_red_bfast_info">Устанавливает светодиот питания в быстро мигающий красный  </Text>
+	<Text name="msg_led_green_bfast_title">Зеленый (Быстрое мигание)</Text>
+	<Text name="msg_led_green_bfast_info">Устанавливает светодиот питания в быстро мигающий зеленый  </Text>
+	<Text name="msg_led_yellow_bfast_title">Желтый (Быстрое мигание)</Text>
+	<Text name="msg_led_yellow_bfast_info">Устанавливает светодиот питания в быстро мигающий желтый  </Text>
+	<Text name="msg_led_yellowg_bfast_title">Желтый + зеленый (Быстрое мигание)</Text>
+	<Text name="msg_led_yellowg_bfast_info">Устанавливает светодиот питания в быстро мигающий желтый + зеленый  </Text>
+	<Text name="msg_led_yellowr_bfast_title">Желтый + красный (Быстрое мигание)</Text>
+	<Text name="msg_led_yellowr_bfast_info">Устанавливает светодиот питания в быстро мигающий желтый + красный  </Text>
+	<Text name="msg_led_yellowg_bslow_title">Желтый + зеленый (Медленное мигание)</Text>
+	<Text name="msg_led_yellowg_bslow_info">Устанавливает светодиот питания в медленно мигающий желтый + зеленый  </Text>
+	<Text name="msg_led_yellowr_bslow_title">Желтый + красный (Медленное мигание)</Text>
+	<Text name="msg_led_yellowr_bslow_info">Устанавливает светодиот питания в медленно мигающий желтый + красный  </Text>
+	<Text name="msg_led_rainbow_title">Режим радуги</Text>
+	<Text name="msg_led_rainbow_info">Устанавливает светодиот питания в режим радуги  </Text>
+	<Text name="msg_led_special1_title">Специальный режим 1</Text>
+	<Text name="msg_led_special1_info">Устанавливает светодиот питания в специальный режим 1  </Text>
+	<Text name="msg_led_special2_title">Специальный режим 2</Text>
+	<Text name="msg_led_special2_info">Устанавливает светодиот питания в специальный режим 2  </Text>
+	<Text name="msg_buzzer_menu_title">Инструменты динамика</Text>
+	<Text name="msg_buzzer_single_title">Одиночный писк</Text>
+	<Text name="msg_buzzer_single_info">Генерирует одиночный писк из внутреннего динамика  </Text>
+	<Text name="msg_buzzer_double_title">Двойной писк</Text>
+	<Text name="msg_buzzer_double_info">Генерирует двойной писк из внутреннего динамика  </Text>
+	<Text name="msg_buzzer_triple_title">Тройной писк</Text>
+	<Text name="msg_buzzer_triple_info">Генерирует тройной писк из внутреннего динамика  </Text>
+	<Text name="msg_buzzer_continuous_title">Непрерывный писк</Text>
+	<Text name="msg_buzzer_continuous_info">Генерирует непрерывный писк из внутреннего динамика  </Text>
+	<Text name="msg_check_spe_title">Проверить 8й SPE</Text>
+	<Text name="msg_check_spe_info">Проверяет 8й SPE включен или выключен  </Text>
+	<Text name="msg_toggle_spe_title">Переключить 8й SPE</Text>
+	<Text name="msg_toggle_spe_info">Включает или выключает 8й SPE  </Text>
+	<Text name="msg_ask_toggle_spe">Переключение 8го SPE может быть опасным если вы не знаете что делаете. Вы уверены?
 
-		  I AM NOT RESPONSIBLE FOR ANY DAMAGE  
+		  Я НЕ ОТВЕЧАЮ ЗА ПОСЛЕДСТВИЯ  
 		
-		Press  to continue or  to go back</Text>		
-	<Text name="msg_os_options_title">OtherOS Tools</Text>	
-	<Text name="msg_os_resize_title">Resize VFLASH/NAND Regions</Text>
-	<Text name="msg_os_resize_info">Resizes VFLASH/NAND Regions 5 to allow OtherOS  </Text>
-	<Text name="msg_ask_os_resize">Remember to make a backup of your internal HDD and format it before resizing. Are you sure?
+		Нажмите  для продолжения или  для отмены</Text>		
+	<Text name="msg_os_options_title">Инструменты Другой системы</Text>	
+	<Text name="msg_os_resize_title">Изменить размер регионов VFLASH/NAND</Text>
+	<Text name="msg_os_resize_info">Изменить размер региона 5 VFLASH/NAND для Другой системы  </Text>
+	<Text name="msg_ask_os_resize">Сохраните резервную копию жесткого диска и отформатируйте перед изменением размера. Вы уверены?
 
-		  I AM NOT RESPONSIBLE FOR ANY DAMAGE  
+		  Я НЕ ОТВЕЧАЮ ЗА ПОСЛЕДСТВИЯ  
 			
-		Press  to continue or  to go back</Text>
-	<Text name="msg_os_petitboot_title">Install Petitboot</Text>
-	<Text name="msg_os_petitboot_info">Installs Petitboot to VFLASH/NAND Regions 5 from USB device  </Text>
-	<Text name="msg_ask_os_petitboot">Make sure the file dtbImage.ps3.bin for NOR/NAND is on the root of an USB device. Are you sure?
+		Нажмите  для продолжения или  для отмены</Text>
+	<Text name="msg_os_petitboot_title">Установить Petitboot</Text>
+	<Text name="msg_os_petitboot_info">Устанавливает Petitboot в регион 5 VFLASH/NAND с USB устройства  </Text>
+	<Text name="msg_ask_os_petitboot">Проверьте что файл dtbImage.ps3.bin для NOR/NAND и он в корне USB устройства. Вы уверены?
 
-		  I AM NOT RESPONSIBLE FOR ANY DAMAGE  
+		  Я НЕ ОТВЕЧАЮ ЗА ПОСЛЕДСТВИЯ  
 			
-		Press  to continue or  to go back</Text>
-	<Text name="msg_os_flag_os_title">Set OtherOS Boot Flag</Text>
-	<Text name="msg_os_flag_os_info">Reboots the PS3 and boot OtherOS  </Text>
-	<Text name="msg_os_flag_go_title">Set GameOS Boot Flag</Text>
-	<Text name="msg_os_flag_go_info">Fixes issues loading PS2 games when OtherOS boot flag is set  </Text>
-	<Text name="msg_convert_check_eid_title">Check TargetID</Text>
-	<Text name="msg_convert_check_eid_info">Checks current TargetID from EID0 and EID5  </Text>
-	<Text name="msg_cex2dex_options_title">CEX2DEX Tools</Text>
-	<Text name="msg_convert_cex_title">Convert to CEX</Text>
-	<Text name="msg_convert_cex_info">Converts PS3 to CEX/RETAIL with eid_root_key from /dev_usb or /dev_hdd0  </Text>
-	<Text name="msg_convert_dex_title">Convert to DEX</Text>
-	<Text name="msg_convert_dex_info">Converts PS3 to DEX/DEBUG with eid_root_key from /dev_usb or /dev_hdd0  </Text>
-	<Text name="msg_ask_convert_cex_dex">Make sure the file eid_root_key is on the root of a USB device or /dev_hdd0. Are you sure?
+		Нажмите  для продолжения или  для отмены</Text>
+	<Text name="msg_os_flag_os_title">Установить флаг Другой системы</Text>
+	<Text name="msg_os_flag_os_info">Перезагружает PS3 в Другую систему  </Text>
+	<Text name="msg_os_flag_go_title">Установить флаг игровой системы</Text>
+	<Text name="msg_os_flag_go_info">Усправляет проблемы загрузка PS2 игр когда включен флаг Другой системы  </Text>
+	<Text name="msg_convert_check_eid_title">Проверить TargetID</Text>
+	<Text name="msg_convert_check_eid_info">Проверяет текущую TargetID из EID0 и EID5  </Text>
+	<Text name="msg_cex2dex_options_title">Инструменты CEX2DEX</Text>
+	<Text name="msg_convert_cex_title">Преобразовать в CEX</Text>
+	<Text name="msg_convert_cex_info">Преобразовывает PS3 в CEX/RETAIL с eid_root_key из /dev_usb или /dev_hdd0  </Text>
+	<Text name="msg_convert_dex_title">Преобразовать в DEX</Text>
+	<Text name="msg_convert_dex_info">Преобразовывает PS3 в DEX/DEBUG с eid_root_key из /dev_usb или /dev_hdd0  </Text>
+	<Text name="msg_ask_convert_cex_dex">Проверьте что файл eid_root_key в корне USB устройства или /dev_hdd0. Вы уверены?
 
-		  I AM NOT RESPONSIBLE FOR ANY DAMAGE  
+		  Я НЕ ОТВЕЧАЮ ЗА ПОСЛЕДСТВИЯ  
 		
-		Press  to continue or  to go back</Text>
-	<Text name="msg_cex2dex_showinfo_title">Show Information</Text>
-	<Text name="msg_cex2dex_showinfo_info">Shows current Firmware, Kernel, TargetID, VSH, XMB Host and Debug Settings  </Text>
-	<Text name="msg_dump_flash_title">Dump Flash</Text>
-	<Text name="msg_dump_flash_info">Dumps NOR/NAND Flash to dev_hdd0/tmp or /dev_usb  </Text>
-	<Text name="msg_toggle_cobra_plugins_title">Toggle Plugins</Text>
-	<Text name="msg_toggle_cobra_plugins_info">Enables/disables Cobra plugins from /dev_hdd0/boot_plugins.txt  </Text>
-	<Text name="msg_ftp_enable_title">Enable FTP</Text>
-	<Text name="msg_ftp_enable_info">Enables FTP connection in port 21  </Text>
-	<Text name="msg_ftp_disable_title">Disable FTP</Text>
-	<Text name="msg_ftp_disable_info">Disables FTP connection  </Text>
-	<Text name="msg_spoof_idps_title">Spoof IDPS</Text>
-	<Text name="msg_spoof_idps_info">Spoofs IDPS in LV2 with a valid IDPS from "/dev_usb/IDPS.txt"  </Text>
-	<Text name="msg_spoof_psid_title">Spoof PSID</Text>
-	<Text name="msg_spoof_psid_info">Spoofs PSID in LV2 with a valid PSID from "/dev_usb/PSID.txt"  </Text>
-	<Text name="msg_dump_sysrom_title">Dump SYSROM</Text>
-	<Text name="msg_dump_sysrom_info">Dumps SYSROM to /dev_usb or /dev_hdd0/tmp  </Text>
-	<Text name="msg_prodg_patch_title">Enable VSH Debugging</Text>
-	<Text name="msg_prodg_patch_info">Enables debugging vsh.self  </Text>
-	<Text name="msg_swap_kernel_title">Swap Kernel</Text>
-	<Text name="msg_swap_kernel_info">Swaps between CEX and DEX Kernels  </Text>
-	<Text name="msg_ask_swap_kernel">This option will modify CoreOS loading CEX/DEX Kernel. Are you sure?
+		Нажмите  для продолжения или  для отмены</Text>
+	<Text name="msg_cex2dex_showinfo_title">Показать информацию</Text>
+	<Text name="msg_cex2dex_showinfo_info">Показывает текущую прошивку, ядро, TargetID, VSH, XMB хост и настройки отладки  </Text>
+	<Text name="msg_dump_flash_title">Сохранить Flash</Text>
+	<Text name="msg_dump_flash_info">Сохраняет NOR/NAND Flash в dev_hdd0/tmp или /dev_usb  </Text>
+	<Text name="msg_toggle_cobra_plugins_title">Переключить плагины</Text>
+	<Text name="msg_toggle_cobra_plugins_info">Включает/Выключает плагины Cobra из /dev_hdd0/boot_plugins.txt  </Text>
+	<Text name="msg_ftp_enable_title">Включить FTP</Text>
+	<Text name="msg_ftp_enable_info">Включает FTP соединение на порте 21  </Text>
+	<Text name="msg_ftp_disable_title">Выключить FTP</Text>
+	<Text name="msg_ftp_disable_info">Отключает FTP соединение  </Text>
+	<Text name="msg_spoof_idps_title">Подмена IDPS</Text>
+	<Text name="msg_spoof_idps_info">Подменяет IDPS в LV2 на IDPS из "/dev_usb/IDPS.txt"  </Text>
+	<Text name="msg_spoof_psid_title">Подмена PSID</Text>
+	<Text name="msg_spoof_psid_info">Подменяет PSID в LV2 на PSID из "/dev_usb/PSID.txt"  </Text>
+	<Text name="msg_dump_sysrom_title">Сохранить SYSROM</Text>
+	<Text name="msg_dump_sysrom_info">Сохраняет SYSROM в /dev_usb или /dev_hdd0/tmp  </Text>
+	<Text name="msg_prodg_patch_title">Включить отладку VSH</Text>
+	<Text name="msg_prodg_patch_info">Включает отладку vsh.self  </Text>
+	<Text name="msg_swap_kernel_title">Подменить ядро</Text>
+	<Text name="msg_swap_kernel_info">Переключает между ядрами CEX и DEX  </Text>
+	<Text name="msg_ask_swap_kernel">Этот параметр заменит CoreOS загрузив ядро CEX/DEX. Вы уверены?
 
-		  I AM NOT RESPONSIBLE FOR ANY DAMAGE  
+		  Я НЕ ОТВЕЧАЮ ЗА ПОСЛЕДСТВИЯ  
 		
-		Press  to continue or  to go back</Text>	
-	<Text name="msg_unlock_hdd_space_title">Toggle HDD Space</Text>
-	<Text name="msg_unlock_hdd_space_info">Unlocks/restores 8% extra total space on the PS3 internal HDD  </Text>
-	<Text name="msg_ip_xmb_title">Toggle Host Information on XMB</Text>
-	<Text name="msg_ip_xmb_info">Enables/disables host information on XMB  </Text>
-	<Text name="msg_spoof_with_eid5_title">Spoof TargetID</Text>
-	<Text name="msg_spoof_with_eid5_info">Spoofs current TargetID in LV2 with EID5's TargetID  </Text>
-	<Text name="msg_show_ip_title">Show IP</Text>
-	<Text name="msg_show_ip_info">Show current IP if it exists  </Text>
-	<Text name="msg_external_cobra_title">Toggle External Cobra</Text>
-	<Text name="msg_external_cobra_info">Enables/disables loading external Cobra payloads and plugins from /dev_usb000  </Text>
-	<Text name="msg_ask_external_cobra">When enabled, the controller may not sync when starting the PS3 from it.
-		If this happens, you need to turn the controller off and on again on the XMB. Are you sure?
+		Нажмите  для продолжения или  для отмены</Text>	
+	<Text name="msg_unlock_hdd_space_title">Переключить место на HDD</Text>
+	<Text name="msg_unlock_hdd_space_info">Разблокирует/восстанавливает 8% места на внутреннем HDD PS3  </Text>
+	<Text name="msg_ip_xmb_title">Переключить информацию о хосте в XMB</Text>
+	<Text name="msg_ip_xmb_info">Включает/Выключает информацию о хосте в XMB  </Text>
+	<Text name="msg_spoof_with_eid5_title">Подменить TargetID</Text>
+	<Text name="msg_spoof_with_eid5_info">Подменяет текущий TargetID в LV2 на EID5 TargetID  </Text>
+	<Text name="msg_show_ip_title">Показать IP</Text>
+	<Text name="msg_show_ip_info">Показывает текущий IP если существует  </Text>
+	<Text name="msg_external_cobra_title">Переключить внешнюю Cobra</Text>
+	<Text name="msg_external_cobra_info">Включает/Выключает загрузку внешних плагинов Cobra из /dev_usb000  </Text>
+	<Text name="msg_ask_external_cobra">Когда включено, контроллер может не подключиться к PS3.
+		Если это промхойдет, вам нужно выключить и включить контроллер в XMB. Вы уверены?
 
-		Press  to continue or  to go back</Text>
-	<Text name="msg_ps3_lifetime_title">Show Total PS3 Usage</Text>
-	<Text name="msg_ps3_lifetime_info">Shows the total days that the PS3 has been on, number of times it has been turned on and off  </Text>
-	<Text name="msg_toggle_vsh_title">Toggle XMB Mode</Text>
-	<Text name="msg_toggle_vsh_info">Switch between CEX and DEX XMB  </Text>
-	<Text name="msg_enable_npsignin_lck_title">Enable PSN Protection</Text>
-	<Text name="msg_enable_npsignin_lck_info">Blocks PSN login when syscalls are enabled  </Text>
-	<Text name="msg_disable_npsignin_lck_title">Disable PSN Protection</Text>
-	<Text name="msg_disable_npsignin_lck_info">Enables PSN login when syscalls are enabled  </Text>
-	<Text name="msg_dump_eeprom_title">Dump EEPROM</Text>
-	<Text name="msg_dump_eeprom_info">Dumps 256 bytes of EEPROM data from offsets 0x2F00, 0x3000, 0x48000, 0x48800, 0x48C00 and 0x48D00 in /dev_usb or /dev_hdd0/tmp  </Text>
-	<Text name="msg_update_xai_title">Update xai_plugin</Text>
-	<Text name="msg_update_xai_info">Updates current xai_plugin to latest version from Evilnat's Github repository  </Text>
-	<Text name="msg_dump_syscon_error_log_title">Dump SYSCON Error Log</Text>
-	<Text name="msg_dump_syscon_error_log_info">Dumps current SYSCON error log in /dev_usb or /dev_hdd0/tmp  </Text>
-	<Text name="msg_get_token_seed_title">Dump Token Seed</Text>
-	<Text name="msg_get_token_seed_info">Dumps current token seed in /dev_usb or /dev_hdd0/tmp  </Text>
+		Нажмите  для продолжения или  для отмены</Text>
+	<Text name="msg_ps3_lifetime_title">Показать использование PS3</Text>
+	<Text name="msg_ps3_lifetime_info">Показывает количество дней PS3 была включена, количество включений и выключений  </Text>
+	<Text name="msg_toggle_vsh_title">Переключить режим XMB</Text>
+	<Text name="msg_toggle_vsh_info">Переключает между режимами CEX и DEX XMB  </Text>
+	<Text name="msg_enable_npsignin_lck_title">Включить PSN защиту</Text>
+	<Text name="msg_enable_npsignin_lck_info">Блокирует вход в PSN когда включены системные вызовы  </Text>
+	<Text name="msg_disable_npsignin_lck_title">Выключить PSN защиту</Text>
+	<Text name="msg_disable_npsignin_lck_info">Разрешает вход в PSN когда включены системные вызовы  </Text>
+	<Text name="msg_dump_eeprom_title">Сохранить EEPROM</Text>
+	<Text name="msg_dump_eeprom_info">Сохраняет 256 байт EEPROM с отступами 0x2F00, 0x3000, 0x48000, 0x48800, 0x48C00 и 0x48D00 в /dev_usb или /dev_hdd0/tmp  </Text>
+	<Text name="msg_update_xai_title">Обновить xai_plugin</Text>
+	<Text name="msg_update_xai_info">Обновляет текущий xai_plugin на последнию версию из репозитория Evilnat на Github  </Text>
+	<Text name="msg_dump_syscon_error_log_title">Сохранить лог ошибок SYSCON</Text>
+	<Text name="msg_dump_syscon_error_log_info">Сохраняет текущий лог ошибок SYSCON в /dev_usb или /dev_hdd0/tmp  </Text>
+	<Text name="msg_get_token_seed_title">Сохранить Token Seed</Text>
+	<Text name="msg_get_token_seed_info">Сохраняет текущий token seed в /dev_usb или /dev_hdd0/tmp  </Text>
 </TextLang>
