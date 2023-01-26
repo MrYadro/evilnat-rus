@@ -26,7 +26,7 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	data, err = ioutil.ReadFile("explore_plugin_full_new.xml")
+	data, err = ioutil.ReadFile("explore_plugin_full.xml")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -38,9 +38,11 @@ func main() {
 
 	var diff []string
 	m := make(map[string]bool)
+	c := make(map[string]int)
 
 	for _, item := range tlb.Text {
 		m[item.Name] = true
+		c[item.Name]++
 	}
 
 	for _, item := range tla.Text {
@@ -51,5 +53,11 @@ func main() {
 
 	for _, item := range diff {
 		fmt.Println(item)
+	}
+
+	for key, item := range c {
+		if item > 1 {
+			fmt.Println(key)
+		}
 	}
 }
