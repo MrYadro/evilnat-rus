@@ -105,7 +105,7 @@
 	<Text name="msg_fan_temp_celsius">[CPU: %u°C] - [RSX: %u°C]</Text>	
 	<Text name="msg_fan_temp_fahrenheit">[CPU: %u°F] - [RSX: %u°F]</Text>	
 	<Text name="msg_syscalls_restore_disabled">Запретить восстановление системных вызовов выключено</Text>
-	<Text name="msg_syscalls_restore_enabled">Разрешить восстановление системныех вызовов включено</Text>
+	<Text name="msg_syscalls_restore_enabled">Разрешить восстановление системных вызовов включено</Text>
 	<Text name="msg_skip_rif_disabled">Пропуск создания лицензии выключен</Text>
 	<Text name="msg_skip_rif_enabled">Пропуск создания лицензии включен</Text>
 	<Text name="msg_account_act_deleted">Файл активации удален успешно</Text>
@@ -128,7 +128,7 @@
 		Скопируйте их через XMB</Text>
 	<Text name="msg_savedata_converted2">%d файлы сохранения успешно сконвертированы
 		Скопируйте их через XMB</Text>
-	<Text name="msg_savedata_unable_open_dir">Не удалось открыть деректорию: 
+	<Text name="msg_savedata_unable_open_dir">Не удалось открыть директорию: 
 		%s</Text>
 	<Text name="msg_savedata_not_found">Файлы сохранения не найдены</Text>
 	<Text name="msg_savedata_userid_fail">Не удалось получить UserID из xRegistry для: %s</Text>
@@ -274,7 +274,7 @@
 		XMB Host: %s
 		Настройки отладки: %s</Text>
 	<Text name="msg_dumping_flash">Сохраняем %s Flash, пожалуйста подождите...</Text>
-	<Text name="msg_dump_flash_error">Ошибка при похранении %s Flash</Text>
+	<Text name="msg_dump_flash_error">Ошибка при сохранении %s Flash</Text>
 	<Text name="msg_dump_flash_ok">%s Flash сохранено в
 		%s</Text>
 	<Text name="msg_enable_plugins_success">Плагины включены успешно</Text>
@@ -313,7 +313,7 @@
 	<Text name="msg_prodg_patch_error">Ошибка при патче</Text>
 	<Text name="msg_swap_kernel_dex">Ядро LV2 изменено на DEX/Debug. Перезагружаемся...</Text>
 	<Text name="msg_swap_kernel_cex">Ядро LV2 изменено на CEX/Retail. Перезагружаемся...</Text>
-	<Text name="msg_swap_kernel_error">Неподдерживаемая прошивка или произошла ошибка</Text>
+	<Text name="msg_swap_kernel_error">Не поддерживаемая прошивка или произошла ошибка</Text>
 	<Text name="msg_show_eid_target_error">Не удалось получить TargetID/EID</Text>
 	<Text name="msg_ps3_information_error">Не удалось получить информацию о PS3</Text>
 	<Text name="msg_swap_kernel_unknown">Не удалось получить TargetID, отмена...</Text>
@@ -331,7 +331,7 @@
 	<Text name="msg_ext_cobra_disabled_done">Внешняя Cobra выключена</Text>
 	<Text name="msg_ext_cobra_enabled_error">Не удалось включить внешнюю Cobra</Text>
 	<Text name="msg_ext_cobra_disabled_error">Не удалось выключить внешнюю Cobra</Text>
-	<Text name="msg_ps3_lifetime">Использовалаль: %d days
+	<Text name="msg_ps3_lifetime">Использовалаcь: %d days
 		Вкл: %d
 		Выкл: %d</Text>
 	<Text name="msg_toggle_vsh_cex">[CEX XMB Mode] включено. Перезагрузитесь чтобы применить изменения</Text>
