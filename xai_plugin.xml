@@ -313,7 +313,7 @@
 	<Text name="msg_prodg_patch_error">Ошибка при патче</Text>
 	<Text name="msg_swap_kernel_dex">Ядро LV2 изменено на DEX/Debug. Перезагружаемся...</Text>
 	<Text name="msg_swap_kernel_cex">Ядро LV2 изменено на CEX/Retail. Перезагружаемся...</Text>
-	<Text name="msg_swap_kernel_error">Не поддерживаемая прошивка или произошла ошибка</Text>
+	<Text name="msg_swap_kernel_error">Неподдерживаемая прошивка или произошла ошибка</Text>
 	<Text name="msg_show_eid_target_error">Не удалось получить TargetID/EID</Text>
 	<Text name="msg_ps3_information_error">Не удалось получить информацию о PS3</Text>
 	<Text name="msg_swap_kernel_unknown">Не удалось получить TargetID, отмена...</Text>
@@ -331,9 +331,9 @@
 	<Text name="msg_ext_cobra_disabled_done">Внешняя Cobra выключена</Text>
 	<Text name="msg_ext_cobra_enabled_error">Не удалось включить внешнюю Cobra</Text>
 	<Text name="msg_ext_cobra_disabled_error">Не удалось выключить внешнюю Cobra</Text>
-	<Text name="msg_ps3_lifetime">Использовалаcь: %d days
-		Вкл: %d
-		Выкл: %d</Text>
+	<Text name="msg_ps3_lifetime">Использовалаcь: %d дней
+		Включений: %d
+		Выключений: %d</Text>
 	<Text name="msg_toggle_vsh_cex">[CEX XMB Mode] включено. Перезагрузитесь чтобы применить изменения</Text>
 	<Text name="msg_toggle_vsh_dex">[DEX XMB Mode] включено. Перезагрузитесь чтобы применить изменения</Text>
 	<Text name="msg_toggle_vsh_error">Не удалось переключить режим XMB</Text>
