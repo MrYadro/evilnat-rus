@@ -452,4 +452,8 @@
 	<Text name="msg_dump_syscon_error_log_info">Сохраняет текущий лог ошибок SYSCON в /dev_usb или /dev_hdd0/tmp  </Text>
 	<Text name="msg_get_token_seed_title">Сохранить Token Seed</Text>
 	<Text name="msg_get_token_seed_info">Сохраняет текущий token seed в /dev_usb или /dev_hdd0/tmp  </Text>
+	<Text name="msg_current_ros_bank">Active ROS bank: %s</Text>
+	<Text name="msg_current_ros_bank_error">Не удалось получить ROS bank</Text>
+	<Text name="msg_current_ros_bank_title">Показать ROS Bank</Text>
+	<Text name="msg_current_ros_bank_info">Показывает активный ROS bank  </Text>
 </TextLang>
