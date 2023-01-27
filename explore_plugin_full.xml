@@ -438,8 +438,8 @@
 	<Text name="msg_ps3_lifetime_info">Показывает количество дней PS3 была включена, количество включений и выключений  </Text>
 	<Text name="msg_toggle_vsh_title">Переключить режим XMB</Text>
 	<Text name="msg_toggle_vsh_info">Переключает между режимами CEX и DEX XMB  </Text>
-	<Text name="msg_toggle_sysconf_title">Переключить версию ПО</Text>
-	<Text name="msg_toggle_sysconf_info">Переключает между нестандартной/стандартной версией в "Информация о системе"  </Text>
+	<Text name="msg_toggle_sysconf_title">Переключить настройки отладки</Text>
+	<Text name="msg_toggle_sysconf_info">Переключает между CEX и DEX  </Text>
 	<Text name="msg_enable_npsignin_lck_title">Включить PSN защиту</Text>
 	<Text name="msg_enable_npsignin_lck_info">Блокирует вход в PSN когда включены системные вызовы  </Text>
 	<Text name="msg_disable_npsignin_lck_title">Выключить PSN защиту</Text>
