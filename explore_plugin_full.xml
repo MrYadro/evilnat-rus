@@ -298,7 +298,7 @@
 	<Text name="msg_fm_dev_cf_title">/dev_cf</Text>
 	<Text name="msg_fm_dev_cf_info">Compact Flash  </Text>
 	<Text name="msg_cobra_sc8_title">Проверить системный вызов 8</Text>
-	<Text name="msg_cobra_sc8_info">Проверить статус системного вызова Cobra 8</Text>
+	<Text name="msg_cobra_sc8_info">Проверить статус системного вызова 8 Cobra</Text>
 	<Text name="msg_mount_dev_blind_title">Переключить /dev_blind</Text>
 	<Text name="msg_mount_dev_blind_info">  Монтирует /dev_flash как /dev_blind с доступом на запись (ИСПОЛЬЗОВАТЬ С ОСТОРОЖНОСТЬЮ!)  </Text>
 	<Text name="msg_sort_date_title">Сортировать игры по имени и дате</Text>
