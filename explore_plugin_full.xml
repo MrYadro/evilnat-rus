@@ -128,8 +128,6 @@
 	<Text name="msg_lv2_reboot_action_info">Перезагружает LV2</Text>
 	<Text name="msg_allow_restore_sc_title">Разрешить восстановить системные вызовы</Text>
 	<Text name="msg_allow_restore_sc_info">Разрешает восстановить системные вызовы через "Обновление системы"  </Text>
-	<Text name="msg_toggle_sysconf_title">Переключить версию ПО</Text>
-	<Text name="msg_toggle_sysconf_info">Переключает между нестандартной/стандартной версией в "Информация о системе"  </Text>
 	<Text name="msg_qa_tools_title">Инструменты QA</Text>
 	<Text name="msg_check_qa_title">Проверить флаги QA</Text>
 	<Text name="msg_check_qa_info">Проверяет если флаги QA flags включены или выключены  </Text>
@@ -147,6 +145,8 @@
 	<Text name="msg_patch_accountid_overwrite_info"> Переписывает текущий accountID поддельным из xRegistry  </Text>
 	<Text name="msg_patch_accountid_remove_title">Удалить accountID</Text>
 	<Text name="msg_patch_accountid_remove_info"> Удаляет текущий accountID в xRegistry  </Text>
+	<Text name="msg_button_assignment_title">Установка кнопок</Text>
+	<Text name="msg_button_assignment_info">Переключает кнопки  и   </Text>
 	<Text name="msg_xreg_settings_title">Инструменты xRegistry</Text>
 	<Text name="msg_skip_rif_title">Пропуск создания лицензии</Text>
 	<Text name="msg_skip_rif_info">Пропускает создание лицензии (RIF) если уже существует  </Text>
@@ -307,8 +307,6 @@
 	<Text name="msg_sort_name_info">Добавляет сортировку по алфавиту и обратно  </Text>
 	<Text name="msg_sort_creation_title">Сортировать игры по-умолчанию</Text>
 	<Text name="msg_sort_creation_info">Добавляет сортировку от новых к старым и от старых к новым  </Text>
-	<Text name="msg_button_assignment_title">Установка кнопок</Text>
-	<Text name="msg_button_assignment_info">Переключает кнопки  и   </Text>
 	<Text name="msg_dump_ram_title">Сохранить RAM</Text>
 	<Text name="msg_dump_ram_info">Сохраняет RAM в /dev_usb или /dev_hdd0/tmp  </Text>
 	<Text name="msg_clock_speeds_title">Проверить частоту GPU/VRAM</Text>
@@ -440,6 +438,8 @@
 	<Text name="msg_ps3_lifetime_info">Показывает количество дней PS3 была включена, количество включений и выключений  </Text>
 	<Text name="msg_toggle_vsh_title">Переключить режим XMB</Text>
 	<Text name="msg_toggle_vsh_info">Переключает между режимами CEX и DEX XMB  </Text>
+	<Text name="msg_toggle_sysconf_title">Переключить версию ПО</Text>
+	<Text name="msg_toggle_sysconf_info">Переключает между нестандартной/стандартной версией в "Информация о системе"  </Text>
 	<Text name="msg_enable_npsignin_lck_title">Включить PSN защиту</Text>
 	<Text name="msg_enable_npsignin_lck_info">Блокирует вход в PSN когда включены системные вызовы  </Text>
 	<Text name="msg_disable_npsignin_lck_title">Выключить PSN защиту</Text>
