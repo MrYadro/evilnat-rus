@@ -213,9 +213,9 @@
 		%s</Text>
 	<Text name="msg_lv1_dump_error">Ошибка при сохранении LV1</Text>
 	<Text name="msg_cfw_syscalls_disabled">Системные вызовы CFW выключены</Text>
-	<Text name="msg_syscall8_disabled">Syscall 8 выключен или частично выключен</Text>
-	<Text name="msg_syscall8_status_enabled">Syscall 8 включен</Text>	
-	<Text name="msg_syscall8_status_disabled">Syscall 8 выключен</Text>	
+	<Text name="msg_syscall8_disabled">Системный вызов 8 выключен или частично выключен</Text>
+	<Text name="msg_syscall8_status_enabled">Системный вызов 8 включен</Text>	
+	<Text name="msg_syscall8_status_disabled">Системный вызов 8 выключен</Text>	
 	<Text name="msg_devblind_mounted">dev_blind примонтирован</Text>
 	<Text name="msg_devblind_unmounted">dev_blind отмонтирован</Text>
 	<Text name="msg_sort_games_completed">Завершено успешно, перезагружаемся...</Text>
