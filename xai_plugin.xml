@@ -355,4 +355,8 @@
 	<Text name="msg_sm_error_log_warning_done">Логи SYSCON сохранены в %s</Text>	
 	<Text name="msg_get_token_seed_done">Token seed сохранен в %s</Text>
 	<Text name="msg_get_token_seed_error">Не удалось сохранить Token seed</Text>	
+	<Text name="msg_current_ros_bank">Активный ROS bank: %s</Text>
+	<Text name="msg_current_ros_bank_error">Не удалось получить ROS bank</Text>
+	<Text name="msg_current_ros_bank_title">Показать ROS Bank</Text>
+	<Text name="msg_current_ros_bank_info">Показывает активный ROS bank  </Text>
 </TextLang>
