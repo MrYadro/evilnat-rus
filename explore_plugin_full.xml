@@ -94,7 +94,7 @@
 	<Text name="msg_dump_disc_key_info">Получает ключи из ОРИГИНАЛЬНОГО диска с игрой  </Text>
 	<Text name="msg_backup_registry_title">Сохранить xRegistry.sys</Text>
 	<Text name="msg_backup_registry_info">Создает резервную копию xRegistry.sys в /dev_usb или /dev_hdd0  </Text>
-	<Text name="msg_applicable_version_title">Отобразить доступную версию</Text>
+	<Text name="msg_applicable_version_title">Показать доступную версию</Text>
 	<Text name="msg_applicable_version_info">Показывает минимальную версию для даунгрейда  </Text>
 	<Text name="msg_fs_check_title">Проверить файловую систему</Text>
 	<Text name="msg_fs_check_info">Перезагружает и проверяет файловую систему  </Text>
