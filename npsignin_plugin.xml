@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TextLang>
-	<Text name="System_information_1">Отключить системные вызовы для входа в PlayStation™Network</Text>
+	<Text name="System_information_1">Выключите системные вызовы для входа в PlayStation™Network</Text>
 	<Text name="msg_signin_psn">PlayStation™Network: выключен</Text>
 </TextLang>

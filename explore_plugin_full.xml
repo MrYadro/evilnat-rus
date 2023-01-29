@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TextLang>
 	<Text name="msg_tool_package_file"><![CDATA[★ Package Manager]]></Text>
-	<Text name="msg_tool_package_file_info">Управляйте контентом PlayStation™Network Content и Homebrew.</Text>
+	<Text name="msg_tool_package_file_info">Управляйте контентом PlayStation™Network и Homebrew.</Text>
 	<Text name="msg_tool_rebug_file"><![CDATA[★ Rebug Essentials]]></Text>
 	<Text name="msg_tool_rebug_file_info">УСТАНОВИТЬ необходимые инструменты для полного REBUG.</Text>
 	<Text name="msg_tool_psn_file"><![CDATA[★ PlayStation™Network Content]]></Text>
@@ -78,7 +78,7 @@
 	<Text name="msg_fan_ps2mode_90_title">Режим вентилятора для PS2: 90%</Text>
 	<Text name="msg_fan_ps2mode_90_info">Устанавливает скорость вентилятора на 0xE8 в PS2 игре  
 		  Скорость вентилятора нельзя менять в PS2 игре, выбирайте с осторожностью  </Text>
-	<Text name="msg_view_log_title">Показать лог</Text>
+	<Text name="msg_view_log_title">Показать логи</Text>
 	<Text name="msg_view_log_info">http://localhost/dev_hdd0/tmp/cfw_settings.log (для этого необходим webMAN MOD)</Text>
 	<Text name="msg_clean_log_title">Очистить логи</Text>
 	<Text name="msg_clean_log_info">Очищает файл /dev_hdd0/tmp/cfw_settings.log  </Text>
@@ -90,12 +90,12 @@
 	<Text name="msg_log_klic_info">Сохраняет имя файлы и klicense в логи  </Text>
 	<Text name="msg_log_secureid_title">Сохранить использование Secure File ID</Text>
 	<Text name="msg_log_secureid_info">Записывает название файла и ID в логи  </Text>
-	<Text name="msg_dump_disc_key_title">Сохранить ключи для Диска</Text>
+	<Text name="msg_dump_disc_key_title">Сохранить ключи для диска</Text>
 	<Text name="msg_dump_disc_key_info">Получает ключи из ОРИГИНАЛЬНОГО диска с игрой  </Text>
 	<Text name="msg_backup_registry_title">Сохранить xRegistry.sys</Text>
 	<Text name="msg_backup_registry_info">Создает резервную копию xRegistry.sys в /dev_usb или /dev_hdd0  </Text>
 	<Text name="msg_applicable_version_title">Отобразить доступную версию</Text>
-	<Text name="msg_applicable_version_info">Показывает минимальну версию для даунгрейда  </Text>
+	<Text name="msg_applicable_version_info">Показывает минимальную версию для даунгрейда  </Text>
 	<Text name="msg_fs_check_title">Проверить файловую систему</Text>
 	<Text name="msg_fs_check_info">Перезагружает и проверяет файловую систему  </Text>
 	<Text name="msg_rebuild_db_title">Перестроить базу данных</Text>
@@ -145,7 +145,7 @@
 	<Text name="msg_patch_accountid_overwrite_info"> Переписывает текущий accountID поддельным из xRegistry  </Text>
 	<Text name="msg_patch_accountid_remove_title">Удалить accountID</Text>
 	<Text name="msg_patch_accountid_remove_info"> Удаляет текущий accountID в xRegistry  </Text>
-	<Text name="msg_button_assignment_title">Установка кнопок</Text>
+	<Text name="msg_button_assignment_title">Переназначение кнопок</Text>
 	<Text name="msg_button_assignment_info">Переключает кнопки  и   </Text>
 	<Text name="msg_xreg_settings_title">Инструменты xRegistry</Text>
 	<Text name="msg_skip_rif_title">Пропуск создания лицензии</Text>
@@ -188,49 +188,49 @@
 	<Text name="msg_create_rif_title">Создать лицензию</Text>
 	<Text name="msg_create_rif_info">Создает RIF лицензии из файла RAP в "x:\exdata"  </Text>
 	<Text name="msg_fan_mode_60_title">Максимальная температура: 60°C/140°F</Text>
-	<Text name="msg_fan_mode_60_info">Устанавливает динамически скорость вентилятора чтобы поддерживать температуру 60°C/140°F  </Text>
+	<Text name="msg_fan_mode_60_info">Устанавливает скорость вентилятора динамически чтобы поддерживать температуру 60°C/140°F  </Text>
 	<Text name="msg_fan_mode_65_title">Максимальная температура: 65°C/149°F</Text>
-	<Text name="msg_fan_mode_65_info">Устанавливает динамически скорость вентилятора чтобы поддерживать температуру 65°C/149°F  </Text>
+	<Text name="msg_fan_mode_65_info">Устанавливает скорость вентилятора динамически чтобы поддерживать температуру 65°C/149°F  </Text>
 	<Text name="msg_fan_mode_70_title">Максимальная температура: 70°C/158°F</Text>
-	<Text name="msg_fan_mode_70_info">Устанавливает динамически скорость вентилятора чтобы поддерживать температуру 70°C/158°F  </Text>
+	<Text name="msg_fan_mode_70_info">Устанавливает скорость вентилятора динамически чтобы поддерживать температуру 70°C/158°F  </Text>
 	<Text name="msg_fan_mode_75_title">Максимальная температура: 75°C/167°F</Text>
-	<Text name="msg_fan_mode_75_info">Устанавливает динамически скорость вентилятора чтобы поддерживать температуру 75°C/167°F  </Text>
+	<Text name="msg_fan_mode_75_info">Устанавливает скорость вентилятора динамически чтобы поддерживать температуру 75°C/167°F  </Text>
 	<Text name="msg_fan_dynamic_title">Динамическое управление вентилятором</Text>
-	<Text name="msg_fan_manual_title">Ручная скорость</Text>
-	<Text name="msg_fan_manual_40_title">Ручная скорость: 40%</Text>
+	<Text name="msg_fan_manual_title">Cкорость вручную</Text>
+	<Text name="msg_fan_manual_40_title">Cкорость вручную: 40%</Text>
 	<Text name="msg_fan_manual_40_info">Устанавливает постоянную скорость вентиляторв 40% (0x67)  
 		  Скорость будет постоянная и не будет меняться автоматически  </Text>
-	<Text name="msg_fan_manual_45_title">Ручная скорость: 45%</Text>
+	<Text name="msg_fan_manual_45_title">Cкорость вручную: 45%</Text>
 	<Text name="msg_fan_manual_45_info">Устанавливает постоянную скорость вентиляторв 45% (0x75)  
 		  Скорость будет постоянная и не будет меняться автоматически  </Text>
-	<Text name="msg_fan_manual_50_title">Ручная скорость: 50%</Text>
+	<Text name="msg_fan_manual_50_title">Cкорость вручную: 50%</Text>
 	<Text name="msg_fan_manual_50_info">Устанавливает постоянную скорость вентиляторв 50% (0x80)  
 		  Скорость будет постоянная и не будет меняться автоматически  </Text>
-	<Text name="msg_fan_manual_55_title">Ручная скорость: 55%</Text>
+	<Text name="msg_fan_manual_55_title">Cкорость вручную: 55%</Text>
 	<Text name="msg_fan_manual_55_info">Устанавливает постоянную скорость вентиляторв 55% (0x8E)  
 		  Скорость будет постоянная и не будет меняться автоматически  </Text>
-	<Text name="msg_fan_manual_60_title">Ручная скорость: 60%</Text>
+	<Text name="msg_fan_manual_60_title">Cкорость вручную: 60%</Text>
 	<Text name="msg_fan_manual_60_info">Устанавливает постоянную скорость вентиляторв 60% (0x9B)  
 		  Скорость будет постоянная и не будет меняться автоматически  </Text>
-	<Text name="msg_fan_manual_65_title">Ручная скорость: 65%</Text>
+	<Text name="msg_fan_manual_65_title">Cкорость вручную: 65%</Text>
 	<Text name="msg_fan_manual_65_info">Устанавливает постоянную скорость вентиляторв 65% (0xA8)  
 		  Скорость будет постоянная и не будет меняться автоматически  </Text>
-	<Text name="msg_fan_manual_70_title">Ручная скорость: 70%</Text>
+	<Text name="msg_fan_manual_70_title">Cкорость вручную: 70%</Text>
 	<Text name="msg_fan_manual_70_info">Устанавливает постоянную скорость вентиляторв 70% (0xB5)  
 		  Скорость будет постоянная и не будет меняться автоматически  </Text>
-	<Text name="msg_fan_manual_75_title">Ручная скорость: 75%</Text>
+	<Text name="msg_fan_manual_75_title">Cкорость вручную: 75%</Text>
 	<Text name="msg_fan_manual_75_info">Устанавливает постоянную скорость вентиляторв 75% (0xC0)  
 		  Скорость будет постоянная и не будет меняться автоматически  </Text>
-	<Text name="msg_fan_manual_80_title">Ручная скорость: 80%</Text>
+	<Text name="msg_fan_manual_80_title">Cкорость вручную: 80%</Text>
 	<Text name="msg_fan_manual_80_info">Устанавливает постоянную скорость вентиляторв 80% (0xCE)  
 		  Скорость будет постоянная и не будет меняться автоматически  </Text>
-	<Text name="msg_fan_manual_85_title">Ручная скорость: 85%</Text>
+	<Text name="msg_fan_manual_85_title">Cкорость вручную: 85%</Text>
 	<Text name="msg_fan_manual_85_info">Устанавливает постоянную скорость вентиляторв 85% (0xDA)  
 		  Скорость будет постоянная и не будет меняться автоматически  </Text>
-	<Text name="msg_fan_manual_90_title">Ручная скорость: 90%</Text>
+	<Text name="msg_fan_manual_90_title">Cкорость вручную: 90%</Text>
 	<Text name="msg_fan_manual_90_info">Устанавливает постоянную скорость вентиляторв 90% (0xE7)  
 		  Скорость будет постоянная и не будет меняться автоматически  </Text>
-	<Text name="msg_fan_manual_95_title">Ручная скорость: 95%</Text>
+	<Text name="msg_fan_manual_95_title">Cкорость вручную: 95%</Text>
 	<Text name="msg_fan_manual_95_info">Устанавливает постоянную скорость вентиляторв 95% (0xF4)  
 		  Скорость будет постоянная и не будет меняться автоматически  </Text>
 	<Text name="msg_cobra_version_title">Переключить версию Cobra</Text>
@@ -250,7 +250,7 @@
 	<Text name="msg_fm_dev_hdd0_title">Внутренний жесткий диск 0</Text>
 	<Text name="msg_fm_dev_hdd0_info">Управление файлами PS3 в /dev_hdd0  </Text>
 	<Text name="msg_fm_dev_hdd1_title">Внутренний жесткий диск 1</Text>
-	<Text name="msg_fm_dev_hdd1_info">Управление файлами PS3 в/dev_hdd1  </Text>
+	<Text name="msg_fm_dev_hdd1_info">Управление файлами PS3 в /dev_hdd1  </Text>
 	<Text name="msg_fm_dev_usb_title">Устройства USB</Text>
 	<Text name="msg_fm_dev_usb_info">Управление файлами на ваших USB устройствах  </Text>
 	<Text name="msg_fm_dev_flash_title">Внутренняя память</Text>
@@ -315,37 +315,37 @@
 	<Text name="msg_led_off_title">Выключить</Text>
 	<Text name="msg_led_off_info">Выключает светодиод питания PS3   </Text>
 	<Text name="msg_led_red_title">Красный (Статичный)</Text>
-	<Text name="msg_led_red_info">Устанавливает светодиот питания в статичный красный  </Text>
+	<Text name="msg_led_red_info">Устанавливает светодиод питания в статичный красный  </Text>
 	<Text name="msg_led_green_title">Зеленый (Статичный)</Text>
-	<Text name="msg_led_green_info">Устанавливает светодиот питания в статичный зеленый  </Text>
+	<Text name="msg_led_green_info">Устанавливает светодиод питания в статичный зеленый  </Text>
 	<Text name="msg_led_yellow_title">Желтый (Статичный)</Text>
-	<Text name="msg_led_yellow_info">Устанавливает светодиот питания в статичный желтый  </Text>
+	<Text name="msg_led_yellow_info">Устанавливает светодиод питания в статичный желтый  </Text>
 	<Text name="msg_led_red_bslow_title">Красный (Медленное мигание)</Text>
-	<Text name="msg_led_red_bslow_info">Устанавливает светодиот питания в медленно мигающий красный  </Text>
+	<Text name="msg_led_red_bslow_info">Устанавливает светодиод питания в медленно мигающий красный  </Text>
 	<Text name="msg_led_green_bslow_title">Зеленый (Медленное мигание)</Text>
-	<Text name="msg_led_green_bslow_info">Устанавливает светодиот питания в медленно мигающий зеленый  </Text>
+	<Text name="msg_led_green_bslow_info">Устанавливает светодиод питания в медленно мигающий зеленый  </Text>
 	<Text name="msg_led_yellow_bslow_title">Желтый (Медленное мигание)</Text>
-	<Text name="msg_led_yellow_bslow_info">Устанавливает светодиот питания в медленно мигающий желтый  </Text>
+	<Text name="msg_led_yellow_bslow_info">Устанавливает светодиод питания в медленно мигающий желтый  </Text>
 	<Text name="msg_led_red_bfast_title">Красный (Быстрое мигание)</Text>
-	<Text name="msg_led_red_bfast_info">Устанавливает светодиот питания в быстро мигающий красный  </Text>
+	<Text name="msg_led_red_bfast_info">Устанавливает светодиод питания в быстро мигающий красный  </Text>
 	<Text name="msg_led_green_bfast_title">Зеленый (Быстрое мигание)</Text>
-	<Text name="msg_led_green_bfast_info">Устанавливает светодиот питания в быстро мигающий зеленый  </Text>
+	<Text name="msg_led_green_bfast_info">Устанавливает светодиод питания в быстро мигающий зеленый  </Text>
 	<Text name="msg_led_yellow_bfast_title">Желтый (Быстрое мигание)</Text>
-	<Text name="msg_led_yellow_bfast_info">Устанавливает светодиот питания в быстро мигающий желтый  </Text>
+	<Text name="msg_led_yellow_bfast_info">Устанавливает светодиод питания в быстро мигающий желтый  </Text>
 	<Text name="msg_led_yellowg_bfast_title">Желтый + зеленый (Быстрое мигание)</Text>
-	<Text name="msg_led_yellowg_bfast_info">Устанавливает светодиот питания в быстро мигающий желтый + зеленый  </Text>
+	<Text name="msg_led_yellowg_bfast_info">Устанавливает светодиод питания в быстро мигающий желтый + зеленый  </Text>
 	<Text name="msg_led_yellowr_bfast_title">Желтый + красный (Быстрое мигание)</Text>
-	<Text name="msg_led_yellowr_bfast_info">Устанавливает светодиот питания в быстро мигающий желтый + красный  </Text>
+	<Text name="msg_led_yellowr_bfast_info">Устанавливает светодиод питания в быстро мигающий желтый + красный  </Text>
 	<Text name="msg_led_yellowg_bslow_title">Желтый + зеленый (Медленное мигание)</Text>
-	<Text name="msg_led_yellowg_bslow_info">Устанавливает светодиот питания в медленно мигающий желтый + зеленый  </Text>
+	<Text name="msg_led_yellowg_bslow_info">Устанавливает светодиод питания в медленно мигающий желтый + зеленый  </Text>
 	<Text name="msg_led_yellowr_bslow_title">Желтый + красный (Медленное мигание)</Text>
-	<Text name="msg_led_yellowr_bslow_info">Устанавливает светодиот питания в медленно мигающий желтый + красный  </Text>
+	<Text name="msg_led_yellowr_bslow_info">Устанавливает светодиод питания в медленно мигающий желтый + красный  </Text>
 	<Text name="msg_led_rainbow_title">Режим радуги</Text>
-	<Text name="msg_led_rainbow_info">Устанавливает светодиот питания в режим радуги  </Text>
+	<Text name="msg_led_rainbow_info">Устанавливает светодиод питания в режим радуги  </Text>
 	<Text name="msg_led_special1_title">Специальный режим 1</Text>
-	<Text name="msg_led_special1_info">Устанавливает светодиот питания в специальный режим 1  </Text>
+	<Text name="msg_led_special1_info">Устанавливает светодиод питания в специальный режим 1  </Text>
 	<Text name="msg_led_special2_title">Специальный режим 2</Text>
-	<Text name="msg_led_special2_info">Устанавливает светодиот питания в специальный режим 2  </Text>
+	<Text name="msg_led_special2_info">Устанавливает светодиод питания в специальный режим 2  </Text>
 	<Text name="msg_buzzer_menu_title">Инструменты динамика</Text>
 	<Text name="msg_buzzer_single_title">Одиночный писк</Text>
 	<Text name="msg_buzzer_single_info">Генерирует одиночный писк из внутреннего динамика  </Text>
@@ -382,7 +382,7 @@
 	<Text name="msg_os_flag_os_title">Установить флаг Другой системы</Text>
 	<Text name="msg_os_flag_os_info">Перезагружает PS3 в Другую систему  </Text>
 	<Text name="msg_os_flag_go_title">Установить флаг игровой системы</Text>
-	<Text name="msg_os_flag_go_info">Усправляет проблемы загрузка PS2 игр когда включен флаг Другой системы  </Text>
+	<Text name="msg_os_flag_go_info">Исравляет проблемы загрузки PS2 игр когда включен флаг Другой системы  </Text>
 	<Text name="msg_convert_check_eid_title">Проверить TargetID</Text>
 	<Text name="msg_convert_check_eid_info">Проверяет текущую TargetID из EID0 и EID5  </Text>
 	<Text name="msg_cex2dex_options_title">Инструменты CEX2DEX</Text>
@@ -426,8 +426,8 @@
 	<Text name="msg_ip_xmb_info">Включает/Выключает информацию о хосте в XMB  </Text>
 	<Text name="msg_spoof_with_eid5_title">Подменить TargetID</Text>
 	<Text name="msg_spoof_with_eid5_info">Подменяет текущий TargetID в LV2 на EID5 TargetID  </Text>
-	<Text name="msg_show_ip_title">Показать IP</Text>
-	<Text name="msg_show_ip_info">Показывает текущий IP если существует  </Text>
+	<Text name="msg_show_ip_title">Показать IP адрес</Text>
+	<Text name="msg_show_ip_info">Показывает текущий IP адрес если существует  </Text>
 	<Text name="msg_external_cobra_title">Переключить внешнюю Cobra</Text>
 	<Text name="msg_external_cobra_info">Включает/Выключает загрузку внешних плагинов Cobra из /dev_usb000  </Text>
 	<Text name="msg_ask_external_cobra">Когда включено, контроллер может не подключиться к PS3.
