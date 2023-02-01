@@ -118,7 +118,7 @@
 	<Text name="msg_toggle_dlna_title">Включить DLNA</Text>
 	<Text name="msg_create_syscalls_title">Создать системные вызовы</Text>
 	<Text name="msg_create_syscalls_info">Создает системные вызовы 6, 7, 8, 9, 10, 11, 15, 35  </Text>
-	<Text name="msg_shutdown_action_title">Выключить</Text>
+	<Text name="msg_shutdown_action_title">Отключить</Text>
 	<Text name="msg_shutdown_action_info">Выключает PS3</Text>
 	<Text name="msg_toggle_coldboot_title">Переключить заставку Coldboot</Text>
 	<Text name="msg_toggle_coldboot_info">Переключает между нестандартным/стандартным coldboot.raf  </Text>
