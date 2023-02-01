@@ -45,9 +45,9 @@
 	<Text name="msg_cobra_data_title">Информация о Cobra</Text>
 	<Text name="msg_cobra_data_info">Показывает текущую информацию о Cobra  </Text>
 	<Text name="msg_cobra_mode_title">Переключить Cobra</Text>
-	<Text name="msg_cobra_mode_info">Включает и выключает Cobra (нужна перезагрузка)  </Text>
+	<Text name="msg_cobra_mode_info">Переключает Cobra (нужна перезагрузка)  </Text>
 	<Text name="msg_fan_mode_disabled_title">Контроль за вентилятором: ВЫКЛЮЧЕН</Text>
-	<Text name="msg_fan_mode_disabled_info">Отключает контроль за вентилятором  </Text>
+	<Text name="msg_fan_mode_disabled_info">Выключает контроль за вентилятором  </Text>
 	<Text name="msg_fan_mode_syscon_title">Контроль за вентилятором: SYSCON</Text>
 	<Text name="msg_fan_mode_syscon_info">Позволяет PS3 SYSCON контролировать скорость вентилятора  </Text>
 	<Text name="msg_fan_mode_payload_title">Контроль за вентилятором: PAYLOAD</Text>
@@ -57,7 +57,7 @@
 	<Text name="msg_fan_mode_max_title">Контроль за вентилятором: МАКСИМУМ</Text>
 	<Text name="msg_fan_mode_max_info">Установить скорость вентилятора Cobra на 0xFF  </Text>
 	<Text name="msg_fan_ps2mode_disabled_title">Режим вентилятора для PS2: ВЫКЛЮЧЕН</Text>
-	<Text name="msg_fan_ps2mode_disabled_info">Отключает контроль над вентилятором в PS2 игре  </Text>
+	<Text name="msg_fan_ps2mode_disabled_info">Выключает контроль над вентилятором в PS2 игре  </Text>
 	<Text name="msg_fan_ps2mode_syscon_title">Режим вентилятора для PS2: SYSCON</Text>
 	<Text name="msg_fan_ps2mode_syscon_info">Позволяет PS3 SYSCON контролировать скорость вентилятора в PS2 игре  </Text>
 	<Text name="msg_fan_ps2mode_40_title">Режим вентилятора для PS2: 40%</Text>
@@ -87,9 +87,9 @@
 	<Text name="msg_dump_psid_title">Сохранить PSID</Text>
 	<Text name="msg_dump_psid_info">Сохраняет PSID в логи  </Text>
 	<Text name="msg_log_klic_title">Сохранить использование KLicense</Text>
-	<Text name="msg_log_klic_info">Сохраняет имя файлы и klicense в логи  </Text>
+	<Text name="msg_log_klic_info">Сохраняет имя файла и klicense в логи  </Text>
 	<Text name="msg_log_secureid_title">Сохранить использование Secure File ID</Text>
-	<Text name="msg_log_secureid_info">Записывает название файла и ID в логи  </Text>
+	<Text name="msg_log_secureid_info">Сохраняет название файла и ID в логи  </Text>
 	<Text name="msg_dump_disc_key_title">Сохранить ключи для диска</Text>
 	<Text name="msg_dump_disc_key_info">Получает ключи из ОРИГИНАЛЬНОГО диска с игрой  </Text>
 	<Text name="msg_backup_registry_title">Сохранить xRegistry.sys</Text>
@@ -105,8 +105,8 @@
 	<Text name="msg_rsod_fix_title">Исправление RSOD</Text>
 	<Text name="msg_rsod_fix_info">Инициализирует VTRM-Region для исправления RSOD  </Text>
 	<Text name="msg_enable_hvdbg_title">Включить HV Proc</Text>
-	<Text name="msg_service_mode_title">Включить Factory Service Mode</Text>
-	<Text name="msg_service_mode_info">Войти/Выйти в Factory Service Mode (**НЕ УСТАНАВЛИВАЙТЕ CFW В РЕЖИМЕ FSM**)  </Text>
+	<Text name="msg_service_mode_title">Переключить Factory Service Mode</Text>
+	<Text name="msg_service_mode_info">Переключить Factory Service Mode (**НЕ УСТАНАВЛИВАЙТЕ CFW В РЕЖИМЕ FSM**)  </Text>
 	<Text name="msg_remarry_bd_title">Привязать Bluray дисковод</Text>
 	<Text name="msg_remarry_bd_info">Требуется: Вход в FSM и копия "eid_root_key" в /dev_usb  </Text>
 	<Text name="msg_usb_firm_loader_title">Загрузчик прошивки с USB</Text>
@@ -152,7 +152,7 @@
 	<Text name="msg_skip_rif_info">Пропускает создание лицензии (RIF) если уже существует  </Text>
 	<Text name="msg_activate_account_title">Активировать аккаунт</Text>
 	<Text name="msg_activate_account_info">Создает act.dat для текущего аккаунта  </Text>
-	<Text name="msg_remove_license_title">Отключить аккаунт</Text>
+	<Text name="msg_remove_license_title">Удалить аккаунт</Text>
 	<Text name="msg_remove_license_info"> Удаляет act.dat  </Text>
 	<Text name="msg_backup_license_title">Сохранить файл активации</Text>
 	<Text name="msg_backup_license_info">Создает копию act.dat в /dev_usb или /dev_hdd0  </Text>
@@ -236,8 +236,8 @@
 	<Text name="msg_cobra_version_title">Переключить версию Cobra</Text>
 	<Text name="msg_cobra_version_info">Переключает между релизной и отладочной версией (требуется перезагрузка)  </Text>
 	<Text name="msg_psn_tools_title">Инструменты PSN</Text>
-	<Text name="msg_disable_syscalls_title">Отключить системные вызовы</Text>
-	<Text name="msg_disable_syscalls_info">Отключает системные вызовы и удаляет файлы истории  </Text>
+	<Text name="msg_disable_syscalls_title">Выключить системные вызовы</Text>
+	<Text name="msg_disable_syscalls_info">Выключает системные вызовы и удаляет файлы истории  </Text>
 	<Text name="msg_dump_erk_title">Сохранить ERK</Text>
 	<Text name="msg_dump_erk_info">Сохраняет eid_root_key в	/dev_usb или /dev_hdd0/tmp  </Text>
 	<Text name="msg_dump_lv2_title">Сохранить LV2</Text>
@@ -356,9 +356,9 @@
 	<Text name="msg_buzzer_continuous_title">Непрерывный писк</Text>
 	<Text name="msg_buzzer_continuous_info">Генерирует непрерывный писк из внутреннего динамика  </Text>
 	<Text name="msg_check_spe_title">Проверить 8й SPE</Text>
-	<Text name="msg_check_spe_info">Проверяет 8й SPE включен или выключен  </Text>
+	<Text name="msg_check_spe_info">Проверяет включен или выключен 8й SPE  </Text>
 	<Text name="msg_toggle_spe_title">Переключить 8й SPE</Text>
-	<Text name="msg_toggle_spe_info">Включает или выключает 8й SPE  </Text>
+	<Text name="msg_toggle_spe_info">Переключает 8й SPE  </Text>
 	<Text name="msg_ask_toggle_spe">Переключение 8го SPE может быть опасным если вы не знаете что делаете. Вы уверены?
 
 		  Я НЕ ОТВЕЧАЮ ЗА ПОСЛЕДСТВИЯ  
@@ -400,11 +400,11 @@
 	<Text name="msg_dump_flash_title">Сохранить Flash</Text>
 	<Text name="msg_dump_flash_info">Сохраняет NOR/NAND Flash в dev_hdd0/tmp или /dev_usb  </Text>
 	<Text name="msg_toggle_cobra_plugins_title">Переключить плагины</Text>
-	<Text name="msg_toggle_cobra_plugins_info">Включает/Выключает плагины Cobra из /dev_hdd0/boot_plugins.txt  </Text>
+	<Text name="msg_toggle_cobra_plugins_info">Переключает плагины Cobra из /dev_hdd0/boot_plugins.txt  </Text>
 	<Text name="msg_ftp_enable_title">Включить FTP</Text>
 	<Text name="msg_ftp_enable_info">Включает FTP соединение на порте 21  </Text>
 	<Text name="msg_ftp_disable_title">Выключить FTP</Text>
-	<Text name="msg_ftp_disable_info">Отключает FTP соединение  </Text>
+	<Text name="msg_ftp_disable_info">Выключает FTP соединение  </Text>
 	<Text name="msg_spoof_idps_title">Подмена IDPS</Text>
 	<Text name="msg_spoof_idps_info">Подменяет IDPS в LV2 на IDPS из "/dev_usb/IDPS.txt"  </Text>
 	<Text name="msg_spoof_psid_title">Подмена PSID</Text>
@@ -421,15 +421,15 @@
 		
 		Нажмите  для продолжения или  для отмены</Text>	
 	<Text name="msg_unlock_hdd_space_title">Переключить место на HDD</Text>
-	<Text name="msg_unlock_hdd_space_info">Разблокирует/восстанавливает 8% места на внутреннем HDD PS3  </Text>
+	<Text name="msg_unlock_hdd_space_info">Переключает 8% места на внутреннем HDD PS3  </Text>
 	<Text name="msg_ip_xmb_title">Переключить информацию о хосте в XMB</Text>
-	<Text name="msg_ip_xmb_info">Включает/Выключает информацию о хосте в XMB  </Text>
+	<Text name="msg_ip_xmb_info">Переключает информацию о хосте в XMB  </Text>
 	<Text name="msg_spoof_with_eid5_title">Подменить TargetID</Text>
 	<Text name="msg_spoof_with_eid5_info">Подменяет текущий TargetID в LV2 на EID5 TargetID  </Text>
 	<Text name="msg_show_ip_title">Показать IP адрес</Text>
 	<Text name="msg_show_ip_info">Показывает текущий IP адрес если существует  </Text>
 	<Text name="msg_external_cobra_title">Переключить внешнюю Cobra</Text>
-	<Text name="msg_external_cobra_info">Включает/Выключает загрузку внешних плагинов Cobra из /dev_usb000  </Text>
+	<Text name="msg_external_cobra_info">Переключает загрузку внешних плагинов Cobra из /dev_usb000  </Text>
 	<Text name="msg_ask_external_cobra">Когда включено, контроллер может не подключиться к PS3.
 		Если это промхойдет, вам нужно выключить и включить контроллер в XMB. Вы уверены?
 
