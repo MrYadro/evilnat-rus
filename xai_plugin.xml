@@ -184,10 +184,10 @@
 	<Text name="msg_cobra_fan_manual_85">Cкорость вручную сохранена: 85%</Text>	
 	<Text name="msg_cobra_fan_manual_90">Cкорость вручную сохранена: 90%</Text>
 	<Text name="msg_cobra_fan_manual_95">Cкорость вручную сохранена: 95%</Text>
-	<Text name="msg_cobra_fan_dynamic_60">Максимальная температура сохранена: 140°F</Text>
-	<Text name="msg_cobra_fan_dynamic_65">Максимальная температура сохранена: 149°F</Text>
-	<Text name="msg_cobra_fan_dynamic_70">Максимальная температура сохранена: 158°F</Text>
-	<Text name="msg_cobra_fan_dynamic_75">Максимальная температура сохранена: 167°F</Text>
+	<Text name="msg_cobra_fan_dynamic_60">Максимальная температура сохранена: 60°C</Text>
+	<Text name="msg_cobra_fan_dynamic_65">Максимальная температура сохранена: 65°C</Text>
+	<Text name="msg_cobra_fan_dynamic_70">Максимальная температура сохранена: 70°C</Text>
+	<Text name="msg_cobra_fan_dynamic_75">Максимальная температура сохранена: 75°C</Text>
 	<Text name="msg_please_enable_cobra">Для начала включите Cobra</Text>
 	<Text name="msg_cobra_release_enabled">Включена релизная версия Cobra, перезагружаемся...</Text>
 	<Text name="msg_cobra_release_error">Не удалось переименовать релизную версию</Text>
