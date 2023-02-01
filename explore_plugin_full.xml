@@ -152,7 +152,7 @@
 	<Text name="msg_skip_rif_info">Пропускает создание лицензии (RIF) если уже существует  </Text>
 	<Text name="msg_activate_account_title">Активировать аккаунт</Text>
 	<Text name="msg_activate_account_info">Создает act.dat для текущего аккаунта  </Text>
-	<Text name="msg_remove_license_title">Удалить аккаунт</Text>
+	<Text name="msg_remove_license_title">Деактивировать аккаунт</Text>
 	<Text name="msg_remove_license_info"> Удаляет act.dat  </Text>
 	<Text name="msg_backup_license_title">Сохранить файл активации</Text>
 	<Text name="msg_backup_license_info">Создает копию act.dat в /dev_usb или /dev_hdd0  </Text>

@@ -140,7 +140,7 @@
 	<Text name="msg_savedata_converting_wait">Конвертирование, подождите...</Text>
 	<Text name="msg_xreg_open_error">Не удалось открыть xRegistry</Text>
 	<Text name="msg_accountid_unable_find">Не удалось найти текущий accountID</Text>
-	<Text name="msg_accountid_not_empty">accountID уже есть на этом аккаунте, используйте пункт перезаписать</Text>
+	<Text name="msg_accountid_not_empty">accountID уже есть на этом аккаунте, используйте пункт деактивировать</Text>
 	<Text name="msg_accountid_error_autologin">Не удалось выключить 'autoSignInEnable'</Text>
 	<Text name="msg_accountid_set_fake">Поддельный accountID установлен, перезагружаемся...</Text>
 	<Text name="msg_accountid_set_empty">accountID удален, перезагружаемся...</Text>
