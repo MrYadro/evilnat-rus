@@ -99,7 +99,7 @@
 	<Text name="msg_fs_check_title">Проверить файловую систему</Text>
 	<Text name="msg_fs_check_info">Перезагружает и проверяет файловую систему  </Text>
 	<Text name="msg_rebuild_db_title">Перестроить базу данных</Text>
-	<Text name="msg_rebuild_db_info">Перезагружает и перестаивает базу данных  </Text>
+	<Text name="msg_rebuild_db_info">Перезагружает и перестраивает базу данных  </Text>
 	<Text name="msg_recovery_mode_title">Переключить режим восстановления</Text>
 	<Text name="msg_recovery_mode_info">Перезагрузиться в режим восстановления (Не поддерживается на моделях с NAND!)  </Text>
 	<Text name="msg_rsod_fix_title">Исправление RSOD</Text>
