@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TextLang>
-	<Text name="msg_tool_package_file"><![CDATA[★ Package Manager]]></Text>
+	<Text name="msg_tool_package_file"><![CDATA[★ Менеджер пакетов]]></Text>
 	<Text name="msg_tool_package_file_info">Управляйте контентом PlayStation™Network и Homebrew.</Text>
-	<Text name="msg_tool_rebug_file"><![CDATA[★ Rebug Essentials]]></Text>
+	<Text name="msg_tool_rebug_file"><![CDATA[★ Основные Rebug]]></Text>
 	<Text name="msg_tool_rebug_file_info">УСТАНОВИТЬ необходимые инструменты для полного REBUG.</Text>
-	<Text name="msg_tool_psn_file"><![CDATA[★ PlayStation™Network Content]]></Text>
+	<Text name="msg_tool_psn_file"><![CDATA[★ Контент PlayStation™Network]]></Text>
 	<Text name="msg_tool_psn_file_info">Управляйте загруженным контентом PlayStation™Network.</Text>
 	<Text name="msg_tool_install_file_info">УСТАНОВИТЬ файлы пакетов из устройств хранения и из PS3™.</Text>
-	<Text name="msg_tool_delete_file"><![CDATA[★ Delete Package Files]]></Text>
+	<Text name="msg_tool_delete_file"><![CDATA[★ Удалить пакеты]]></Text>
 	<Text name="msg_tool_delete_file_info">УДАЛИТЬ файлы пакетов с внешнего носителя и из PS3™.</Text>
 	<Text name="msg_tool_hdd0_file">Системное хранилище PS3™</Text>
 	<Text name="msg_tool_hdd0_install_info">УСТАНОВИТЬ из папки [dev_hdd0/packages] вашей PS3™.</Text>
@@ -20,7 +20,7 @@
 	<Text name="msg_tool_og_delete_info">УДАЛИТЬ из папки [root] внешнего носителя.</Text>
 	<Text name="msg_tool_no_package">Пакеты не найдены.</Text>
 	<Text name="msg_tool_no_psn_content">Не найден контент PlayStation™Network.</Text>
-	<Text name="msg_cfw_settings_title"><![CDATA[★ Custom Firmware Tools]]></Text>
+	<Text name="msg_cfw_settings_title"><![CDATA[★ Инструменты прошивки]]></Text>
 	<Text name="msg_fsm_tools_title">Расширенные сервисные инструменты</Text>
 	<Text name="msg_basic_tools_title">Основные инструменты</Text>
 	<Text name="msg_cobra_tools_title">Инструменты Cobra</Text>
@@ -256,7 +256,7 @@
 	<Text name="msg_fm_dev_flash_title">Внутренняя память</Text>
 	<Text name="msg_fm_dev_flash_info">Управление файлами PS3 во внутренней памяти  </Text>
 	<Text name="msg_fm_dev_optical_title">Оптический диск</Text>
-	<Text name="msg_fm_dev_optical_info"><![CDATA[Manage optical discs  ]]></Text>
+	<Text name="msg_fm_dev_optical_info"><![CDATA[Управление оптическими дисками  ]]></Text>
 	<Text name="msg_fm_dev_memorycard_title">Карты памяти</Text>
 	<Text name="msg_fm_dev_memorycard_info">Управление картами памяти  </Text>
 	<Text name="msg_fm_dev_usb000_title">/dev_usb000</Text>
@@ -286,9 +286,9 @@
 	<Text name="msg_fm_dev_flash3_item_title">/dev_flash3</Text>
 	<Text name="msg_fm_dev_flash3_item_info">Третий раздел  </Text>
 	<Text name="msg_fm_dev_bdvd_title">/dev_bdvd</Text>
-	<Text name="msg_fm_dev_bdvd_info"><![CDATA[Blu-Ray Disc  ]]></Text>
+	<Text name="msg_fm_dev_bdvd_info"><![CDATA[Blu-Ray диск  ]]></Text>
 	<Text name="msg_fm_app_home_title">/app_home</Text>
-	<Text name="msg_fm_app_home_info"><![CDATA[Virtual Blu-Ray Disc  ]]></Text>
+	<Text name="msg_fm_app_home_info"><![CDATA[Виртуальный Blu-Ray диск  ]]></Text>
 	<Text name="msg_fm_dev_ps2disc_title">/dev_ps2disc</Text>
 	<Text name="msg_fm_dev_ps2disc_info">Диск PS2  </Text>
 	<Text name="msg_fm_dev_ms_title">/dev_ms</Text>
