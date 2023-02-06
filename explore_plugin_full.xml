@@ -29,9 +29,9 @@
 	<Text name="msg_ingame_settings_title">Внутриигровые настройки</Text>
 	<Text name="msg_fan_settings_title">Инструменты вентилятора</Text>
 	<Text name="msg_fan_ps2_settings_title">Вентилятор PS2</Text>
-	<Text name="msg_soft_reboot_action_title">Перезагрузка</Text>
-	<Text name="msg_hard_reboot_action_title">Полная перезагрузка</Text>
-	<Text name="msg_lv2_reboot_action_title">Перезагрузить LV2</Text>
+	<Text name="msg_soft_reboot_action_title">Перезапуск</Text>
+	<Text name="msg_hard_reboot_action_title">Полный перезапуск</Text>
+	<Text name="msg_lv2_reboot_action_title">Перезапустить LV2</Text>
 	<Text name="msg_fan_speed_title">Скорость вентилятора</Text>
 	<Text name="msg_fan_speed_info">Показывать текущую скорость вентилятора  </Text>
 	<Text name="msg_show_temp_celsius_title">Температура PS3 (Цельсий)</Text>
@@ -45,7 +45,7 @@
 	<Text name="msg_cobra_data_title">Информация о Cobra</Text>
 	<Text name="msg_cobra_data_info">Показывает текущую информацию о Cobra  </Text>
 	<Text name="msg_cobra_mode_title">Переключить Cobra</Text>
-	<Text name="msg_cobra_mode_info">Переключает Cobra (нужна перезагрузка)  </Text>
+	<Text name="msg_cobra_mode_info">Переключает Cobra (нужен перезапуск)  </Text>
 	<Text name="msg_fan_mode_disabled_title">Контроль за вентилятором: ВЫКЛЮЧЕН</Text>
 	<Text name="msg_fan_mode_disabled_info">Выключает контроль за вентилятором  </Text>
 	<Text name="msg_fan_mode_syscon_title">Контроль за вентилятором: SYSCON</Text>
@@ -97,11 +97,11 @@
 	<Text name="msg_applicable_version_title">Показать доступную версию</Text>
 	<Text name="msg_applicable_version_info">Показывает минимальную версию для даунгрейда  </Text>
 	<Text name="msg_fs_check_title">Проверить файловую систему</Text>
-	<Text name="msg_fs_check_info">Перезагружает и проверяет файловую систему  </Text>
+	<Text name="msg_fs_check_info">Перезапускает и проверяет файловую систему  </Text>
 	<Text name="msg_rebuild_db_title">Перестроить базу данных</Text>
-	<Text name="msg_rebuild_db_info">Перезагружает и перестраивает базу данных  </Text>
+	<Text name="msg_rebuild_db_info">Перезапускает и перестраивает базу данных  </Text>
 	<Text name="msg_recovery_mode_title">Переключить режим восстановления</Text>
-	<Text name="msg_recovery_mode_info">Перезагрузиться в режим восстановления (Не поддерживается на моделях с NAND!)  </Text>
+	<Text name="msg_recovery_mode_info">Перезапуститься в режим восстановления (Не поддерживается на моделях с NAND!)  </Text>
 	<Text name="msg_rsod_fix_title">Исправление RSOD</Text>
 	<Text name="msg_rsod_fix_info">Инициализирует VTRM-Region для исправления RSOD  </Text>
 	<Text name="msg_enable_hvdbg_title">Включить HV Proc</Text>
@@ -123,9 +123,9 @@
 	<Text name="msg_toggle_coldboot_title">Переключить заставку Coldboot</Text>
 	<Text name="msg_toggle_coldboot_info">Переключает между нестандартным/стандартным coldboot.raf  </Text>
 	<Text name="msg_power_options_title">Настройки питания</Text>
-	<Text name="msg_hard_reboot_action_info">Полностью перезагружает PS3</Text>
-	<Text name="msg_soft_reboot_action_info">Перезагружает PS3</Text>
-	<Text name="msg_lv2_reboot_action_info">Перезагружает LV2</Text>
+	<Text name="msg_hard_reboot_action_info">Полностью перезапускает PS3</Text>
+	<Text name="msg_soft_reboot_action_info">Перезапускает PS3</Text>
+	<Text name="msg_lv2_reboot_action_info">Перезапускает LV2</Text>
 	<Text name="msg_allow_restore_sc_title">Разрешить восстановить системные вызовы</Text>
 	<Text name="msg_allow_restore_sc_info">Разрешает восстановить системные вызовы через "Обновление системы"  </Text>
 	<Text name="msg_qa_tools_title">Инструменты QA</Text>
@@ -162,21 +162,21 @@
 	<Text name="msg_ask_acc_overwrite_action">Текущий accountID будет переписан. Вы уверены?
 		
 		Нажмите  для продолжения или  для отмены</Text>
-	<Text name="msg_ask_fs_check_action">Система будет перезагружена для проверки файловой системы. Вы уверены?
+	<Text name="msg_ask_fs_check_action">Система будет перезапущена для проверки файловой системы. Вы уверены?
 		
 		Нажмите  для продолжения или  для отмены</Text>
-	<Text name="msg_ask_fsm_action">Система будет перезагружена в Factory Service Mode. Вы уверены?
+	<Text name="msg_ask_fsm_action">Система будет перезапущена в Factory Service Mode. Вы уверены?
 
 		  НЕ УСТАНАВЛИВАЙТЕ CFW В FACTORY SERVICE MODE  
 		
 		Нажмите  для продолжения или  для отмены</Text>
-	<Text name="msg_ask_rsod_fix_action">Система попытается исправить RSOD и будет перезагружена. Вы уверены?
+	<Text name="msg_ask_rsod_fix_action">Система попытается исправить RSOD и будет перезапущена. Вы уверены?
 		
 		Нажмите  для продолжения или  для отмены</Text>
-	<Text name="msg_ask_rebuild_db_action">Система будет перезагружена для перестроения базы данных. Вы уверены?
+	<Text name="msg_ask_rebuild_db_action">Система будет перезапущена для перестроения базы данных. Вы уверены?
 		
 		Нажмите  для продолжения или  для отмены</Text>
-	<Text name="msg_ask_recovery_action">Система будет перезагружена в режим восстановления. Вы уверены?
+	<Text name="msg_ask_recovery_action">Система будет перезапущена в режим восстановления. Вы уверены?
 	
 		  Это не безопасный режим. Используется только для установки прошивки  
 		
@@ -234,7 +234,7 @@
 	<Text name="msg_fan_manual_95_info">Устанавливает постоянную скорость вентиляторв 95% (0xF4)  
 		  Скорость будет постоянная и не будет меняться автоматически  </Text>
 	<Text name="msg_cobra_version_title">Переключить версию Cobra</Text>
-	<Text name="msg_cobra_version_info">Переключает между релизной и отладочной версией (требуется перезагрузка)  </Text>
+	<Text name="msg_cobra_version_info">Переключает между релизной и отладочной версией (требуется перезапуск)  </Text>
 	<Text name="msg_psn_tools_title">Инструменты PSN</Text>
 	<Text name="msg_disable_syscalls_title">Выключить системные вызовы</Text>
 	<Text name="msg_disable_syscalls_info">Выключает системные вызовы и удаляет файлы истории  </Text>
@@ -380,7 +380,7 @@
 			
 		Нажмите  для продолжения или  для отмены</Text>
 	<Text name="msg_os_flag_os_title">Установить флаг Другой системы</Text>
-	<Text name="msg_os_flag_os_info">Перезагружает PS3 в Другую систему  </Text>
+	<Text name="msg_os_flag_os_info">Перезапускает PS3 в Другую систему  </Text>
 	<Text name="msg_os_flag_go_title">Установить флаг игровой системы</Text>
 	<Text name="msg_os_flag_go_info">Исравляет проблемы загрузки PS2 игр когда включен флаг Другой системы  </Text>
 	<Text name="msg_convert_check_eid_title">Проверить TargetID</Text>

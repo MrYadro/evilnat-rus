@@ -27,9 +27,9 @@
 	<Text name="msg_sfo_override_enabled">SFOverride включен</Text>
 	<Text name="msg_sfo_override_disabled">SFOverride выключен</Text>
 	<Text name="msg_cant_disable_cobra">Не удалось выключить Cobra</Text>
-	<Text name="msg_cobra_disabled">Cobra выключена, перезагружаемся...</Text>
+	<Text name="msg_cobra_disabled">Cobra выключена, перезапускаемся...</Text>
 	<Text name="msg_cant_enable_cobra">Невозможно включить Cobra</Text>
-	<Text name="msg_cobra_enabled">Cobra включена, перезагружаемся...</Text>
+	<Text name="msg_cobra_enabled">Cobra включена, перезапускаемся...</Text>
 	<Text name="msg_devblind_mount_error">Не удалось подключить dev_blind</Text>
 	<Text name="msg_devblind_unmount_error">Не удалось отключить dev_blind</Text>
 	<Text name="msg_raf_swap_mod_error">Не удалось подменить coldboot.raf</Text>
@@ -92,7 +92,7 @@
 	<Text name="msg_psid_show">PSID: %s</Text>
 	<Text name="msg_hdd_open_error">Ошибка открытия HDD</Text>
 	<Text name="msg_recovery_mode_enabled">Режим восстановления включен  
-		перезагружаемся...</Text>
+		перезапускаемся...</Text>
 	<Text name="msg_recovery_mode_disabled">Режим восстановления выключен</Text>
 	<Text name="msg_pm_enabled">Product Mode включен</Text>
 	<Text name="msg_pm_disabled">Product Mode выключен</Text>
@@ -142,8 +142,8 @@
 	<Text name="msg_accountid_unable_find">Не удалось найти текущий accountID</Text>
 	<Text name="msg_accountid_not_empty">accountID уже есть на этом аккаунте, используйте пункт деактивировать</Text>
 	<Text name="msg_accountid_error_autologin">Не удалось выключить 'autoSignInEnable'</Text>
-	<Text name="msg_accountid_set_fake">Поддельный accountID установлен, перезагружаемся...</Text>
-	<Text name="msg_accountid_set_empty">accountID удален, перезагружаемся...</Text>
+	<Text name="msg_accountid_set_fake">Поддельный accountID установлен, перезапускаемся...</Text>
+	<Text name="msg_accountid_set_empty">accountID удален, перезапускаемся...</Text>
 	<Text name="msg_button_accept_x">Кнопка  [Принять]
 		Перазагрузитесь чтобы применить изменения</Text>
 	<Text name="msg_button_accept_o">Кнопка  [Принять]
@@ -156,7 +156,7 @@
 	<Text name="msg_error_map_mem">Не удалось выделить участок памяти</Text>
 	<Text name="msg_error_write_uart">Не удалось записать виртуальный UART</Text>
 	<Text name="msg_error_unexpected">Неожиданная ошибка</Text>	
-	<Text name="msg_kernel_loaded">Ядро загружено, перезагружаемся...</Text>
+	<Text name="msg_kernel_loaded">Ядро загружено, перезапускаемся...</Text>
 	<Text name="msg_kernel_failed">Не удалось загрузить ядро</Text>	
 	<Text name="msg_cobra_fan_ps2mode_disabled">Скорость вентилятора PS2 сохранена: ВЫКЛЮЧЕН</Text>
 	<Text name="msg_cobra_fan_ps2mode_syscon">Скорость вентилятора PS2 сохранена: SYSCON</Text>
@@ -189,9 +189,9 @@
 	<Text name="msg_cobra_fan_dynamic_70">Максимальная температура сохранена: 70°C/158°F</Text>
 	<Text name="msg_cobra_fan_dynamic_75">Максимальная температура сохранена: 75°C/167°F</Text>
 	<Text name="msg_please_enable_cobra">Для начала включите Cobra</Text>
-	<Text name="msg_cobra_release_enabled">Включена релизная версия Cobra, перезагружаемся...</Text>
+	<Text name="msg_cobra_release_enabled">Включена релизная версия Cobra, перезапускаемся...</Text>
 	<Text name="msg_cobra_release_error">Не удалось переименовать релизную версию</Text>
-	<Text name="msg_cobra_debug_enabled">Включена отладочная версия Cobra, перезагружаемся...</Text>
+	<Text name="msg_cobra_debug_enabled">Включена отладочная версия Cobra, перезапускаемся...</Text>
 	<Text name="msg_cobra_debug_error">Не удалось переименовать отладочную версию</Text>
 	<Text name="msg_cobra_rename_error">Не удалось переименовать релизную версию Cobra</Text>
 	<Text name="msg_cobra_versions_error">Не удалось найти версии Cobra</Text>	
@@ -218,7 +218,7 @@
 	<Text name="msg_syscall8_status_disabled">Системный вызов 8 выключен</Text>	
 	<Text name="msg_devblind_mounted">dev_blind примонтирован</Text>
 	<Text name="msg_devblind_unmounted">dev_blind отмонтирован</Text>
-	<Text name="msg_sort_games_completed">Завершено успешно, перезагружаемся...</Text>
+	<Text name="msg_sort_games_completed">Завершено успешно, перезапускаемся...</Text>
 	<Text name="msg_sort_games_error">Произошла ошибка</Text>
 	<Text name="msg_switch_error">Не удалось переключить режим</Text>
 	<Text name="msg_debug_settings_cex">[DEBUG SETTINGS: MENU CEX QA] активно</Text>
@@ -227,13 +227,13 @@
 	<Text name="msg_download_toolbox">Скачиваем Toolbox...</Text>
 	<Text name="msg_install_toolbox">Устанавливаем Toolbox...</Text>
 	<Text name="msg_toolbox_not_found">Не найден Toolbox PKG</Text>
-	<Text name="msg_xmb_dex">[DEBUG XMB] активно, перезагружаемся...</Text>
-	<Text name="msg_xmb_cex">[RETAIL XMB] активно, перезагружаемся...</Text>
-	<Text name="msg_normal_mode">[NORMAL MODE] активно, перезагружаемся...</Text>
-	<Text name="msg_rebug_mode">[REBUG MODE] активно, перезагружаемся...</Text>
+	<Text name="msg_xmb_dex">[DEBUG XMB] активно, перезапускаемся...</Text>
+	<Text name="msg_xmb_cex">[RETAIL XMB] активно, перезапускаемся...</Text>
+	<Text name="msg_normal_mode">[NORMAL MODE] активно, перезапускаемся...</Text>
+	<Text name="msg_rebug_mode">[REBUG MODE] активно, перезапускаемся...</Text>
 	<Text name="msg_flash_enough_space">Недостаточно места в /dev_flash</Text>
-	<Text name="msg_host_enabled">Информация о хосте будет отображаться в XMB, перезагружаемся...</Text>
-	<Text name="msg_host_disabled">Информация о хосте не будет отображаться в XMB, перезагружаемся...</Text>	
+	<Text name="msg_host_enabled">Информация о хосте будет отображаться в XMB, перезапускаемся...</Text>
+	<Text name="msg_host_disabled">Информация о хосте не будет отображаться в XMB, перезапускаемся...</Text>	
 	<Text name="msg_need_rebug_mode">Вам нужно быть в REBUG Mode</Text>	
 	<Text name="msg_loading_kernel">Загрузка ядра, пожалуйста подождите...</Text>
 	<Text name="msg_full_ram_dumping">Сохраняем RAM, это может занять 5 минут, пожалуйста подождите...</Text>
@@ -241,12 +241,12 @@
 		%s</Text>
 	<Text name="msg_full_ram_dump_error">Произошла ошибка при сохранении RAM</Text>
 	<Text name="msg_clock_speeds">[GPU: %d MHz] - [VRAM: %d MHz]</Text>
-	<Text name="msg_clock_error">Не удалось получить частоту GPU/VRAM. Перезагрузитесь и попробуйте снова</Text>
+	<Text name="msg_clock_error">Не удалось получить частоту GPU/VRAM. Перезапуститесь и попробуйте снова</Text>
 	<Text name="msg_task_completed">Задача выполнена</Text>
 	<Text name="msg_8th_spe_disabled">8й SPE выключен</Text>
 	<Text name="msg_8th_spe_enabled">8th SPE включен</Text>
 	<Text name="msg_8th_spe_unknown">Неизвестное значение</Text>
-	<Text name="msg_otheros_resize_success">Размер изменен успешно. Перезагрузите PS3 для применения изменений</Text>
+	<Text name="msg_otheros_resize_success">Размер изменен успешно. Перезапустите PS3 для применения изменений</Text>
 	<Text name="msg_otheros_resize_vflash_error">Ошибка при изменении размера VFLASH</Text>
 	<Text name="msg_otheros_resize_flash_error">Ошибка при изменении размера FLASH</Text>
 	<Text name="msg_otheros_petitboot_installing">Устанавливаем petitboot, пожалуйста подождите...</Text>
@@ -311,8 +311,8 @@
 	<Text name="msg_dump_sysrom_not_supported">Этот пункт только для PS3 с NAND</Text>
 	<Text name="msg_prodg_patch_success">Патч успешен. Вы можете отлаживать VSH</Text>
 	<Text name="msg_prodg_patch_error">Ошибка при патче</Text>
-	<Text name="msg_swap_kernel_dex">Ядро LV2 изменено на DEX/Debug. Перезагружаемся...</Text>
-	<Text name="msg_swap_kernel_cex">Ядро LV2 изменено на CEX/Retail. Перезагружаемся...</Text>
+	<Text name="msg_swap_kernel_dex">Ядро LV2 изменено на DEX/Debug. Перезапускаемся...</Text>
+	<Text name="msg_swap_kernel_cex">Ядро LV2 изменено на CEX/Retail. Перезапускаемся...</Text>
 	<Text name="msg_swap_kernel_error">Неподдерживаемая прошивка или произошла ошибка</Text>
 	<Text name="msg_show_eid_target_error">Не удалось получить TargetID/EID</Text>
 	<Text name="msg_ps3_information_error">Не удалось получить информацию о PS3</Text>
@@ -324,8 +324,8 @@
 	<Text name="msg_show_ip">IP: %s</Text>
 	<Text name="msg_spoof_target_id_done">TargetID подменен на 0x%X</Text>
 	<Text name="msg_spoof_target_id_error">Не удалось подменить TargetID</Text>
-	<Text name="msg_toggle_xmbplugin_cex">Информация о хосте выключена в XMB. Перезагрузитесь чтобы применить изменения</Text>
-	<Text name="msg_toggle_xmbplugin_dex">Информация о хосте включена в XMB. Перезагрузитесь чтобы применить изменения</Text>
+	<Text name="msg_toggle_xmbplugin_cex">Информация о хосте выключена в XMB. Перезапуститесь чтобы применить изменения</Text>
+	<Text name="msg_toggle_xmbplugin_dex">Информация о хосте включена в XMB. Перезапуститесь чтобы применить изменения</Text>
 	<Text name="msg_toggle_xmbplugin_error">Не удалось переключить информацию о хосте</Text>
 	<Text name="msg_ext_cobra_enabled_done">Внешняя Cobra включена</Text>
 	<Text name="msg_ext_cobra_disabled_done">Внешняя Cobra выключена</Text>
@@ -334,11 +334,11 @@
 	<Text name="msg_ps3_lifetime">Использовалаcь: %d дней
 		Включений: %d
 		Выключений: %d</Text>
-	<Text name="msg_toggle_vsh_cex">[CEX XMB Mode] включено. Перезагрузитесь чтобы применить изменения</Text>
-	<Text name="msg_toggle_vsh_dex">[DEX XMB Mode] включено. Перезагрузитесь чтобы применить изменения</Text>
+	<Text name="msg_toggle_vsh_cex">[CEX XMB Mode] включено. Перезапуститесь чтобы применить изменения</Text>
+	<Text name="msg_toggle_vsh_dex">[DEX XMB Mode] включено. Перезапуститесь чтобы применить изменения</Text>
 	<Text name="msg_toggle_vsh_error">Не удалось переключить режим XMB</Text>
-	<Text name="msg_toggle_sysconf_cex">[CEX Debug Settings] включены. Перезагрузитесь чтобы применить изменения</Text>
-	<Text name="msg_toggle_sysconf_dex">[DEX Debug Settings] включены. Перезагрузитесь чтобы применить изменения</Text>
+	<Text name="msg_toggle_sysconf_cex">[CEX Debug Settings] включены. Перезапуститесь чтобы применить изменения</Text>
+	<Text name="msg_toggle_sysconf_dex">[DEX Debug Settings] включены. Перезапуститесь чтобы применить изменения</Text>
 	<Text name="msg_toggle_sysconf_error">Не удалось переключить настройки отладки</Text>
 	<Text name="msg_toggle_vsh_canceled">Вам нужно быть на ядре CEX чтобы использовать этот пункт</Text>
 	<Text name="msg_signin_lck_enabled">Защита включена</Text>
