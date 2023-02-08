@@ -337,8 +337,8 @@
 	<Text name="msg_toggle_vsh_cex">[CEX XMB Mode] включено. Перезапуститесь чтобы применить изменения</Text>
 	<Text name="msg_toggle_vsh_dex">[DEX XMB Mode] включено. Перезапуститесь чтобы применить изменения</Text>
 	<Text name="msg_toggle_vsh_error">Не удалось переключить режим XMB</Text>
-	<Text name="msg_toggle_sysconf_cex">[CEX Debug Settings] включены. Перезапуститесь чтобы применить изменения</Text>
-	<Text name="msg_toggle_sysconf_dex">[DEX Debug Settings] включены. Перезапуститесь чтобы применить изменения</Text>
+	<Text name="msg_toggle_sysconf_cex">[Настройки отладки CEX] включены. Перезапуститесь чтобы применить изменения</Text>
+	<Text name="msg_toggle_sysconf_dex">[Настройки отладки DEX] включены. Перезапуститесь чтобы применить изменения</Text>
 	<Text name="msg_toggle_sysconf_error">Не удалось переключить настройки отладки</Text>
 	<Text name="msg_toggle_vsh_canceled">Вам нужно быть на ядре CEX чтобы использовать этот пункт</Text>
 	<Text name="msg_signin_lck_enabled">Защита включена</Text>
@@ -348,7 +348,7 @@
 	<Text name="msg_signin_lck_disabled_error">Не удалось выключить защиту</Text>
 	<Text name="msg_not_enough_space">Недостаточно места на %s</Text>
 	<Text name="msg_dump_eeprom_done">Данные EEPROM сохранены в %s</Text>
-	<Text name="msg_dump_eeprom_error">Не удалось сохранить данный EEPROM</Text>	
+	<Text name="msg_dump_eeprom_error">Не удалось сохранить данные EEPROM</Text>	
 	<Text name="msg_dump_eeprom_wait">Сохраняем данные EEPROM, это может занять некоторое время, подождите...</Text>	
 	<Text name="msg_sm_error_log_done">Логи SYSCON сохранены в %s</Text>	
 	<Text name="msg_sm_error_log_error">Не удалось сохранить логи SYSCON</Text>	
