@@ -55,7 +55,7 @@
 	<Text name="msg_act_unable_read">Не удалось прочитать файл активации</Text>
 	<Text name="msg_backup_created">Резервная копия создана в: 
 		%s</Text>
-	<Text name="msg_hdd_mount_error">Ошибка монтирования HDD</Text>
+	<Text name="msg_hdd_mount_error">Ошибка монтирования системного накопителя</Text>
 	<Text name="msg_xregistry_open_error">Ошибка открытия xRegistry.sys</Text>
 	<Text name="msg_devflash2_mount_error">Ошибка монтирования /dev_flash2</Text>
 	<Text name="msg_xregistry_backup_error">Не удалось создать резервную копию</Text>
@@ -90,7 +90,7 @@
 	<Text name="msg_psid_dump_fail">Не удалось скопировать PSID</Text>
 	<Text name="msg_psid_dumped">PSID скопирован</Text>
 	<Text name="msg_psid_show">PSID: %s</Text>
-	<Text name="msg_hdd_open_error">Ошибка открытия HDD</Text>
+	<Text name="msg_hdd_open_error">Ошибка открытия системного накопителя</Text>
 	<Text name="msg_recovery_mode_enabled">Режим восстановления включен  
 		перезапускаемся...</Text>
 	<Text name="msg_recovery_mode_disabled">Режим восстановления выключен</Text>
@@ -318,9 +318,9 @@
 	<Text name="msg_ps3_information_error">Не удалось получить информацию о PS3™</Text>
 	<Text name="msg_swap_kernel_unknown">Не удалось получить TargetID, отмена...</Text>
 	<Text name="msg_swap_kernel_dex_needed">Этот пункт только для DEX. Преобразуйте в DEX чтобы начать</Text>
-	<Text name="msg_unlock_hdd_space_unlocked">Разблокировано место на HDD</Text>
-	<Text name="msg_unlock_hdd_space_restored">Восстановлено место на HDD</Text>
-	<Text name="msg_unlock_hdd_space_error">Не удалось переключить место на HDD</Text>
+	<Text name="msg_unlock_hdd_space_unlocked">Разблокировано место на системном накопителе</Text>
+	<Text name="msg_unlock_hdd_space_restored">Восстановлено место на системном накопителе</Text>
+	<Text name="msg_unlock_hdd_space_error">Не удалось переключить место на системном накопителе</Text>
 	<Text name="msg_show_ip">IP: %s</Text>
 	<Text name="msg_spoof_target_id_done">TargetID подменен на 0x%X</Text>
 	<Text name="msg_spoof_target_id_error">Не удалось подменить TargetID</Text>

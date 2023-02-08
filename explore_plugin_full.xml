@@ -9,7 +9,7 @@
 	<Text name="msg_tool_install_file_info">УСТАНОВИТЬ файлы пакетов из устройств USB и из PS3™.</Text>
 	<Text name="msg_tool_delete_file"><![CDATA[★ Удалить пакеты]]></Text>
 	<Text name="msg_tool_delete_file_info">УДАЛИТЬ файлы пакетов с устройств USB и из PS3™.</Text>
-	<Text name="msg_tool_hdd0_file">Системное хранилище PS3™</Text>
+	<Text name="msg_tool_hdd0_file">Системный накопитель PS3™</Text>
 	<Text name="msg_tool_hdd0_install_info">УСТАНОВИТЬ из папки [dev_hdd0/packages] вашей PS3™.</Text>
 	<Text name="msg_tool_hdd0_delete_info">УДАЛИТЬ из папки [dev_hdd0/packages] вашей PS3™.</Text>
 	<Text name="msg_tool_usb_file">Папка пакетов</Text>
@@ -294,9 +294,9 @@
 	<Text name="msg_fm_dev_ms_title">/dev_ms</Text>
 	<Text name="msg_fm_dev_ms_info">Memory Stick Pro Duo  </Text>
 	<Text name="msg_fm_dev_sd_title">/dev_sd</Text>
-	<Text name="msg_fm_dev_sd_info">Secure Digital  </Text>
+	<Text name="msg_fm_dev_sd_info">SD Memory Card  </Text>
 	<Text name="msg_fm_dev_cf_title">/dev_cf</Text>
-	<Text name="msg_fm_dev_cf_info">Compact Flash  </Text>
+	<Text name="msg_fm_dev_cf_info">CompactFlash®  </Text>
 	<Text name="msg_cobra_sc8_title">Проверить системный вызов 8</Text>
 	<Text name="msg_cobra_sc8_info">Проверить статус системного вызова 8 Cobra</Text>
 	<Text name="msg_mount_dev_blind_title">Переключить /dev_blind</Text>
@@ -420,8 +420,8 @@
 		  Я НЕ ОТВЕЧАЮ ЗА ПОСЛЕДСТВИЯ  
 		
 		Нажмите  для продолжения или  для отмены</Text>	
-	<Text name="msg_unlock_hdd_space_title">Переключить место на HDD</Text>
-	<Text name="msg_unlock_hdd_space_info">Переключает 8% места на внутреннем HDD PS3™  </Text>
+	<Text name="msg_unlock_hdd_space_title">Переключить место на системном накопителе</Text>
+	<Text name="msg_unlock_hdd_space_info">Переключает 8% места на системном накопителе PS3™  </Text>
 	<Text name="msg_ip_xmb_title">Переключить информацию о хосте в XMB</Text>
 	<Text name="msg_ip_xmb_info">Переключает информацию о хосте в XMB  </Text>
 	<Text name="msg_spoof_with_eid5_title">Подменить TargetID</Text>
