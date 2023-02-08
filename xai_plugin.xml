@@ -34,8 +34,8 @@
 	<Text name="msg_devblind_unmount_error">Не удалось отключить dev_blind</Text>
 	<Text name="msg_raf_swap_mod_error">Не удалось подменить coldboot.raf</Text>
 	<Text name="msg_raf_swap_ori_error">Не удалось подменить стандартный coldboot.raf</Text>
-	<Text name="msg_sysconf_swap_mod_error">Не удалось включить [Информацию о системе]</Text>
-	<Text name="msg_sysconf_swap_ori_error">Не удалось включить стандартную [Информацию о системе]</Text>
+	<Text name="msg_sysconf_swap_mod_error">Не удалось включить подменную [Информация о системе]</Text>
+	<Text name="msg_sysconf_swap_ori_error">Не удалось включить стандартную [Информация о системе]</Text>
 	<Text name="msg_dlna_set_flag_error">Не удалось установить флаг DLNA</Text>
 	<Text name="msg_dlna_enabled">DLNA включен</Text>
 	<Text name="msg_dlna_disabled">DLNA выключен</Text>
@@ -59,7 +59,7 @@
 	<Text name="msg_xregistry_open_error">Ошибка открытия xRegistry.sys</Text>
 	<Text name="msg_devflash2_mount_error">Ошибка монтирования /dev_flash2</Text>
 	<Text name="msg_xregistry_backup_error">Не удалось создать резервную копию</Text>
-	<Text name="msg_usb_not_detected">Пожалуйста подключите устройство USB</Text>
+	<Text name="msg_usb_not_detected">Подключите устройство USB</Text>
 	<Text name="msg_fw_load_ok">Ядро LV2 poked</Text>
 	<Text name="msg_pm_read_fail">Чтение флага Product Mode не удалось</Text>
 	<Text name="msg_vtrm_init_fail">Инициализация VTRM не удалась</Text>
@@ -78,7 +78,7 @@
 	<Text name="msg_bdvd_ar_on_error">Ошибка включения BDVD Auto Request Sense</Text>
 	<Text name="msg_cex_drive_init_sblock_error">Не удалось CEX_drive_init_sblock()</Text>
 	<Text name="msg_cex_drive_init_aacs_error">Не удалось CEX_drive_init_AACS_HRL()</Text>
-	<Text name="msg_enable_fsm">Пожалуйста включите Factory Service Mode</Text>
+	<Text name="msg_enable_fsm">Включите Factory Service Mode</Text>
 	<Text name="msg_cex_init_fail">Не удалось CEX_drive_init()</Text>
 	<Text name="msg_cex_init_ok">Успешное CEX_drive_init()</Text>
 	<Text name="msg_insert_disc">Вставьте диск с игрой</Text>
@@ -169,7 +169,7 @@
 	<Text name="msg_cobra_enable_account_activated">Аккаунт активирован</Text>
 	<Text name="msg_cobra_enable_account_error">Аккаунт не может быть активирован</Text>
 	<Text name="msg_cobra_create_empty">У этого аккаунта нет accountID. Создайте поддельный через "xRegistry Tools"</Text>
-	<Text name="msg_cobra_create_act_exist">На этом аккаунте уже есть файл активации. Пожалуйста удалите его</Text>
+	<Text name="msg_cobra_create_act_exist">На этом аккаунте уже есть файл активации. Удалите его</Text>
 	<Text name="msg_whats_new_enabled">Успешно включено</Text>
 	<Text name="msg_whats_new_disabled">Успешно выключено</Text>
 	<Text name="msg_cobra_fan_manual_40">Cкорость вручную сохранена: 40%</Text>
