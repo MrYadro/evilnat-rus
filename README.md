@@ -1,6 +1,6 @@
 # Evilnat-Rus
 
-Russian translation of Evilnat's PlayStation 3 custom firmware
+Russian translation of Evilnat's PlayStation™ 3 custom firmware
 
 Pull requests / Issues are welcome
 
