@@ -59,13 +59,13 @@
 	<Text name="msg_xregistry_open_error">Ошибка открытия xRegistry.sys</Text>
 	<Text name="msg_devflash2_mount_error">Ошибка монтирования /dev_flash2</Text>
 	<Text name="msg_xregistry_backup_error">Не удалось создать резервную копию</Text>
-	<Text name="msg_usb_not_detected">Please attach an USB Device</Text>
+	<Text name="msg_usb_not_detected">Пожалуйста подключите устройство USB</Text>
 	<Text name="msg_fw_load_ok">LV2 Kernel poked</Text>
 	<Text name="msg_pm_read_fail">Чтение флага Product Mode не удалось</Text>
 	<Text name="msg_vtrm_init_fail">Инициализация VTRM не удалась</Text>
 	<Text name="msg_vtrm_init_ok">Инициализация VTRM успешна</Text>
 	<Text name="msg_ss_server2_error_patch">Не удалось пропатчить ss_server2</Text>
-	<Text name="msg_rootkey_not_detected">Вставьте USB устройство с eid_root_key</Text>
+	<Text name="msg_rootkey_not_detected">Вставьте устройство USB с eid_root_key</Text>
 	<Text name="msg_eid2_size_get_error">Не удалось получить размер EID2</Text>
 	<Text name="msg_eid2_wrong_size">Неверный размер EID2</Text>
 	<Text name="msg_eid2_get_error">Не удалось получить EID2</Text>
@@ -246,14 +246,14 @@
 	<Text name="msg_8th_spe_disabled">8й SPE выключен</Text>
 	<Text name="msg_8th_spe_enabled">8th SPE включен</Text>
 	<Text name="msg_8th_spe_unknown">Неизвестное значение</Text>
-	<Text name="msg_otheros_resize_success">Размер изменен успешно. Перезапустите PS3 для применения изменений</Text>
+	<Text name="msg_otheros_resize_success">Размер изменен успешно. Перезапустите PS3™ для применения изменений</Text>
 	<Text name="msg_otheros_resize_vflash_error">Ошибка при изменении размера VFLASH</Text>
 	<Text name="msg_otheros_resize_flash_error">Ошибка при изменении размера FLASH</Text>
 	<Text name="msg_otheros_petitboot_installing">Устанавливаем petitboot, пожалуйста подождите...</Text>
 	<Text name="msg_otheros_petitboot_success">Petitboot успешно установлен</Text>
 	<Text name="msg_otheros_petitboot_error">Ошибка при установке petitboot</Text>
-	<Text name="msg_otheros_nor_file_not_found">Не удалось найти dtbImage.ps3.bin на USB устройстве</Text>	
-	<Text name="msg_otheros_nand_file_not_found">Не удалось найти dtbImage.ps3.bin.minimal на USB устройстве</Text>	
+	<Text name="msg_otheros_nor_file_not_found">Не удалось найти dtbImage.ps3.bin на устройстве USB</Text>	
+	<Text name="msg_otheros_nand_file_not_found">Не удалось найти dtbImage.ps3.bin.minimal на устройстве USB</Text>	
 	<Text name="msg_otheros_flag_invalid">Неверный флаг</Text>	
 	<Text name="msg_otheros_flag_already_set">%s флаг уже установлен</Text>	
 	<Text name="msg_otheros_flag_oo">Загружаем Другую Систему...</Text>	
@@ -265,8 +265,8 @@
 	<Text name="msg_convert_dex_done">Преобразовано успешно в DEX</Text>
 	<Text name="msg_show_eid_target">EID0: 0x%02X (%s)
 		EID5: 0x%02X (%s)</Text>
-	<Text name="msg_convert_already_dex">Эта PS3 уже в DEX/DEBUG</Text>
-	<Text name="msg_convert_already_cex">Эта PS3 уже в CEX/RETAIL</Text>
+	<Text name="msg_convert_already_dex">Эта PS3™ уже в DEX/DEBUG</Text>
+	<Text name="msg_convert_already_cex">Эта PS3™ уже в CEX/RETAIL</Text>
 	<Text name="msg_ps3_information">Прошивка: %X.%X%X %s
 		LV2 Kernel: %s
 		TargetID: %s
@@ -308,14 +308,14 @@
 	<Text name="msg_dump_sysrom_dump_success">SYSROM сохранен в
 		%s</Text>	
 	<Text name="msg_kernel_loading">Загружаем ядро LV2, пожалуйста подождите...</Text>
-	<Text name="msg_dump_sysrom_not_supported">Этот пункт только для PS3 с NAND</Text>
+	<Text name="msg_dump_sysrom_not_supported">Этот пункт только для PS3™ с NAND</Text>
 	<Text name="msg_prodg_patch_success">Патч успешен. Вы можете отлаживать VSH</Text>
 	<Text name="msg_prodg_patch_error">Ошибка при патче</Text>
 	<Text name="msg_swap_kernel_dex">Ядро LV2 изменено на DEX/Debug. Перезапускаемся...</Text>
 	<Text name="msg_swap_kernel_cex">Ядро LV2 изменено на CEX/Retail. Перезапускаемся...</Text>
 	<Text name="msg_swap_kernel_error">Неподдерживаемая прошивка или произошла ошибка</Text>
 	<Text name="msg_show_eid_target_error">Не удалось получить TargetID/EID</Text>
-	<Text name="msg_ps3_information_error">Не удалось получить информацию о PS3</Text>
+	<Text name="msg_ps3_information_error">Не удалось получить информацию о PS3™</Text>
 	<Text name="msg_swap_kernel_unknown">Не удалось получить TargetID, отмена...</Text>
 	<Text name="msg_swap_kernel_dex_needed">Этот пункт только для DEX. Преобразуйте в DEX чтобы начать</Text>
 	<Text name="msg_unlock_hdd_space_unlocked">Разблокировано место на HDD</Text>

@@ -13,11 +13,11 @@
 	<Text name="msg_tool_hdd0_install_info">УСТАНОВИТЬ из папки [dev_hdd0/packages] вашей PS3™.</Text>
 	<Text name="msg_tool_hdd0_delete_info">УДАЛИТЬ из папки [dev_hdd0/packages] вашей PS3™.</Text>
 	<Text name="msg_tool_usb_file">Папка пакетов</Text>
-	<Text name="msg_tool_usb_install_info">УСТАНОВИТЬ из папки [packages] внешнего носителя.</Text>
-	<Text name="msg_tool_usb_delete_info">УДАЛИТЬ из папки [packages] внешнего носителя.</Text>
+	<Text name="msg_tool_usb_install_info">УСТАНОВИТЬ из папки [packages] устройства USB.</Text>
+	<Text name="msg_tool_usb_delete_info">УДАЛИТЬ из папки [packages] устройства USB.</Text>
 	<Text name="msg_tool_og_file">Стандартные</Text>
-	<Text name="msg_tool_og_install_info">УСТАНОВИТЬ из папки [root] внешнего носителя.</Text>
-	<Text name="msg_tool_og_delete_info">УДАЛИТЬ из папки [root] внешнего носителя.</Text>
+	<Text name="msg_tool_og_install_info">УСТАНОВИТЬ из папки [root] устройства USB.</Text>
+	<Text name="msg_tool_og_delete_info">УДАЛИТЬ из папки [root] устройства USB.</Text>
 	<Text name="msg_tool_no_package">Пакеты не найдены.</Text>
 	<Text name="msg_tool_no_psn_content">Не найден контент PlayStation™Network.</Text>
 	<Text name="msg_cfw_settings_title"><![CDATA[★ Инструменты прошивки]]></Text>
@@ -34,9 +34,9 @@
 	<Text name="msg_lv2_reboot_action_title">Перезапустить LV2</Text>
 	<Text name="msg_fan_speed_title">Скорость вентилятора</Text>
 	<Text name="msg_fan_speed_info">Показывать текущую скорость вентилятора  </Text>
-	<Text name="msg_show_temp_celsius_title">Температура PS3 (Цельсий)</Text>
+	<Text name="msg_show_temp_celsius_title">Температура PS3™ (Цельсий)</Text>
 	<Text name="msg_show_temp_celsius_info">Показывать текущую температуру CPU и RSX в цельсиях  </Text>
-	<Text name="msg_show_temp_fahrenheit_title">Температура PS3 (Фаренгейт)</Text>
+	<Text name="msg_show_temp_fahrenheit_title">Температура PS3™ (Фаренгейт)</Text>
 	<Text name="msg_show_temp_fahrenheit_info">Показывать текущую температуру CPU и RSX в фаренгейтах </Text>
 	<Text name="msg_show_idps_title">Показать IDPS</Text>
 	<Text name="msg_show_idps_info">Показывает текущий IDPS  </Text>
@@ -49,7 +49,7 @@
 	<Text name="msg_fan_mode_disabled_title">Контроль за вентилятором: ВЫКЛЮЧЕН</Text>
 	<Text name="msg_fan_mode_disabled_info">Выключает контроль за вентилятором  </Text>
 	<Text name="msg_fan_mode_syscon_title">Контроль за вентилятором: SYSCON</Text>
-	<Text name="msg_fan_mode_syscon_info">Позволяет PS3 SYSCON контролировать скорость вентилятора  </Text>
+	<Text name="msg_fan_mode_syscon_info">Позволяет PS3™ SYSCON контролировать скорость вентилятора  </Text>
 	<Text name="msg_fan_mode_payload_title">Контроль за вентилятором: PAYLOAD</Text>
 	<Text name="msg_fan_mode_payload_info">Включает контроль за вентилятором через Cobra  </Text>
 	<Text name="msg_fan_mode_manual_title">Контроль за вентилятором: ВРУЧНУЮ</Text>
@@ -59,7 +59,7 @@
 	<Text name="msg_fan_ps2mode_disabled_title">Режим вентилятора для PS2: ВЫКЛЮЧЕН</Text>
 	<Text name="msg_fan_ps2mode_disabled_info">Выключает контроль над вентилятором в PS2 игре  </Text>
 	<Text name="msg_fan_ps2mode_syscon_title">Режим вентилятора для PS2: SYSCON</Text>
-	<Text name="msg_fan_ps2mode_syscon_info">Позволяет PS3 SYSCON контролировать скорость вентилятора в PS2 игре  </Text>
+	<Text name="msg_fan_ps2mode_syscon_info">Позволяет PS3™ SYSCON контролировать скорость вентилятора в PS2 игре  </Text>
 	<Text name="msg_fan_ps2mode_40_title">Режим вентилятора для PS2: 40%</Text>
 	<Text name="msg_fan_ps2mode_40_info">Устанавливает скорость вентилятора на 0x66 в PS2 игре  
 		  Скорость вентилятора нельзя менять в PS2 игре, выбирайте с осторожностью  </Text>
@@ -98,8 +98,8 @@
 	<Text name="msg_applicable_version_info">Показывает минимальную версию для даунгрейда  </Text>
 	<Text name="msg_fs_check_title">Проверить файловую систему</Text>
 	<Text name="msg_fs_check_info">Перезапускает и проверяет файловую систему  </Text>
-	<Text name="msg_rebuild_db_title">Перестроить базу данных</Text>
-	<Text name="msg_rebuild_db_info">Перезапускает и перестраивает базу данных  </Text>
+	<Text name="msg_rebuild_db_title">Реконструировать базу данных</Text>
+	<Text name="msg_rebuild_db_info">Перезапускает и реконструирует базу данных  </Text>
 	<Text name="msg_recovery_mode_title">Переключить режим восстановления</Text>
 	<Text name="msg_recovery_mode_info">Перезапуститься в режим восстановления (Не поддерживается на моделях с NAND!)  </Text>
 	<Text name="msg_rsod_fix_title">Исправление RSOD</Text>
@@ -109,7 +109,7 @@
 	<Text name="msg_service_mode_info">Переключить Factory Service Mode (**НЕ УСТАНАВЛИВАЙТЕ CFW В РЕЖИМЕ FSM**)  </Text>
 	<Text name="msg_remarry_bd_title">Привязать Bluray дисковод</Text>
 	<Text name="msg_remarry_bd_info">Требуется: Вход в FSM и копия "eid_root_key" в /dev_usb  </Text>
-	<Text name="msg_usb_firm_loader_title">Загрузчик прошивки с USB</Text>
+	<Text name="msg_usb_firm_loader_title">Загрузчик прошивки с устройства USB</Text>
 	<Text name="msg_usb_firm_loader_info">Переключает /dev_flash на /dev_usb</Text>
 	<Text name="msg_enable_screenshot_title">Включить внутриигровые скриншоты</Text>
 	<Text name="msg_enable_recording_title">Включить запись игры</Text>
@@ -119,12 +119,12 @@
 	<Text name="msg_create_syscalls_title">Создать системные вызовы</Text>
 	<Text name="msg_create_syscalls_info">Создает системные вызовы 6, 7, 8, 9, 10, 11, 15, 35  </Text>
 	<Text name="msg_shutdown_action_title">Отключить</Text>
-	<Text name="msg_shutdown_action_info">Выключает PS3</Text>
+	<Text name="msg_shutdown_action_info">Выключает PS3™</Text>
 	<Text name="msg_toggle_coldboot_title">Переключить заставку Coldboot</Text>
 	<Text name="msg_toggle_coldboot_info">Переключает между нестандартным/стандартным coldboot.raf  </Text>
 	<Text name="msg_power_options_title">Настройки питания</Text>
-	<Text name="msg_hard_reboot_action_info">Полностью перезапускает PS3</Text>
-	<Text name="msg_soft_reboot_action_info">Перезапускает PS3</Text>
+	<Text name="msg_hard_reboot_action_info">Полностью перезапускает PS3™</Text>
+	<Text name="msg_soft_reboot_action_info">Перезапускает PS3™</Text>
 	<Text name="msg_lv2_reboot_action_info">Перезапускает LV2</Text>
 	<Text name="msg_allow_restore_sc_title">Разрешить восстановить системные вызовы</Text>
 	<Text name="msg_allow_restore_sc_info">Разрешает восстановить системные вызовы через "Обновление системы"  </Text>
@@ -155,7 +155,7 @@
 	<Text name="msg_remove_license_title">Деактивировать аккаунт</Text>
 	<Text name="msg_remove_license_info"> Удаляет act.dat  </Text>
 	<Text name="msg_backup_license_title">Сохранить файл активации</Text>
-	<Text name="msg_backup_license_info">Создает копию act.dat в /dev_usb или /dev_hdd0  </Text>
+	<Text name="msg_backup_license_info">Создает резервную копию act.dat в /dev_usb или /dev_hdd0  </Text>
 	<Text name="msg_ask_license_action">Текущий файл активации будет удален. Вы уверены?
 		
 		Нажмите  для продолжения или  для отмены</Text>
@@ -173,7 +173,7 @@
 	<Text name="msg_ask_rsod_fix_action">Система попытается исправить RSOD и будет перезапущена. Вы уверены?
 		
 		Нажмите  для продолжения или  для отмены</Text>
-	<Text name="msg_ask_rebuild_db_action">Система будет перезапущена для перестроения базы данных. Вы уверены?
+	<Text name="msg_ask_rebuild_db_action">Система будет перезапущена для реконструкции базы данных. Вы уверены?
 		
 		Нажмите  для продолжения или  для отмены</Text>
 	<Text name="msg_ask_recovery_action">Система будет перезапущена в режим восстановления. Вы уверены?
@@ -247,14 +247,14 @@
 	<Text name="msg_file_manager_title">Менеджер файлов</Text>
 	<Text name="msg_fm_dev_all_title">Все активные устройства</Text>
 	<Text name="msg_fm_dev_all_info">Управление всеми разделами  </Text>
-	<Text name="msg_fm_dev_hdd0_title">Внутренний жесткий диск 0</Text>
-	<Text name="msg_fm_dev_hdd0_info">Управление файлами PS3 в /dev_hdd0  </Text>
-	<Text name="msg_fm_dev_hdd1_title">Внутренний жесткий диск 1</Text>
-	<Text name="msg_fm_dev_hdd1_info">Управление файлами PS3 в /dev_hdd1  </Text>
+	<Text name="msg_fm_dev_hdd0_title">Внутренний системный накопитель 0</Text>
+	<Text name="msg_fm_dev_hdd0_info">Управление файлами PS3™ в /dev_hdd0  </Text>
+	<Text name="msg_fm_dev_hdd1_title">Внутренний системный накопитель 1</Text>
+	<Text name="msg_fm_dev_hdd1_info">Управление файлами PS3™ в /dev_hdd1  </Text>
 	<Text name="msg_fm_dev_usb_title">Устройства USB</Text>
-	<Text name="msg_fm_dev_usb_info">Управление файлами на ваших USB устройствах  </Text>
+	<Text name="msg_fm_dev_usb_info">Управление файлами на ваших устройствах USB  </Text>
 	<Text name="msg_fm_dev_flash_title">Внутренняя память</Text>
-	<Text name="msg_fm_dev_flash_info">Управление файлами PS3 во внутренней памяти  </Text>
+	<Text name="msg_fm_dev_flash_info">Управление файлами PS3™ во внутренней памяти  </Text>
 	<Text name="msg_fm_dev_optical_title">Оптический диск</Text>
 	<Text name="msg_fm_dev_optical_info"><![CDATA[Управление оптическими дисками  ]]></Text>
 	<Text name="msg_fm_dev_memorycard_title">Карты памяти</Text>
@@ -313,7 +313,7 @@
 	<Text name="msg_clock_speeds_info">Проверяет частоту GPU/VRAM  </Text>
 	<Text name="msg_led_menu_title">Инструменты светодиодов</Text>
 	<Text name="msg_led_off_title">Выключить</Text>
-	<Text name="msg_led_off_info">Выключает светодиод питания PS3   </Text>
+	<Text name="msg_led_off_info">Выключает светодиод питания PS3™   </Text>
 	<Text name="msg_led_red_title">Красный (Статичный)</Text>
 	<Text name="msg_led_red_info">Устанавливает светодиод питания в статичный красный  </Text>
 	<Text name="msg_led_green_title">Зеленый (Статичный)</Text>
@@ -380,17 +380,17 @@
 			
 		Нажмите  для продолжения или  для отмены</Text>
 	<Text name="msg_os_flag_os_title">Установить флаг Другой системы</Text>
-	<Text name="msg_os_flag_os_info">Перезапускает PS3 в Другую систему  </Text>
+	<Text name="msg_os_flag_os_info">Перезапускает PS3™ в Другую систему  </Text>
 	<Text name="msg_os_flag_go_title">Установить флаг игровой системы</Text>
 	<Text name="msg_os_flag_go_info">Исравляет проблемы загрузки PS2 игр когда включен флаг Другой системы  </Text>
 	<Text name="msg_convert_check_eid_title">Проверить TargetID</Text>
 	<Text name="msg_convert_check_eid_info">Проверяет текущую TargetID из EID0 и EID5  </Text>
 	<Text name="msg_cex2dex_options_title">Инструменты CEX2DEX</Text>
 	<Text name="msg_convert_cex_title">Преобразовать в CEX</Text>
-	<Text name="msg_convert_cex_info">Преобразовывает PS3 в CEX/RETAIL с eid_root_key из /dev_usb или /dev_hdd0  </Text>
+	<Text name="msg_convert_cex_info">Преобразовывает PS3™ в CEX/RETAIL с eid_root_key из /dev_usb или /dev_hdd0  </Text>
 	<Text name="msg_convert_dex_title">Преобразовать в DEX</Text>
-	<Text name="msg_convert_dex_info">Преобразовывает PS3 в DEX/DEBUG с eid_root_key из /dev_usb или /dev_hdd0  </Text>
-	<Text name="msg_ask_convert_cex_dex">Проверьте что файл eid_root_key в корне USB устройства или /dev_hdd0. Вы уверены?
+	<Text name="msg_convert_dex_info">Преобразовывает PS3™ в DEX/DEBUG с eid_root_key из /dev_usb или /dev_hdd0  </Text>
+	<Text name="msg_ask_convert_cex_dex">Проверьте что файл eid_root_key в корне устройства USB или /dev_hdd0. Вы уверены?
 
 		  Я НЕ ОТВЕЧАЮ ЗА ПОСЛЕДСТВИЯ  
 		
@@ -421,7 +421,7 @@
 		
 		Нажмите  для продолжения или  для отмены</Text>	
 	<Text name="msg_unlock_hdd_space_title">Переключить место на HDD</Text>
-	<Text name="msg_unlock_hdd_space_info">Переключает 8% места на внутреннем HDD PS3  </Text>
+	<Text name="msg_unlock_hdd_space_info">Переключает 8% места на внутреннем HDD PS3™  </Text>
 	<Text name="msg_ip_xmb_title">Переключить информацию о хосте в XMB</Text>
 	<Text name="msg_ip_xmb_info">Переключает информацию о хосте в XMB  </Text>
 	<Text name="msg_spoof_with_eid5_title">Подменить TargetID</Text>
@@ -430,12 +430,12 @@
 	<Text name="msg_show_ip_info">Показывает текущий IP адрес если существует  </Text>
 	<Text name="msg_external_cobra_title">Переключить внешнюю Cobra</Text>
 	<Text name="msg_external_cobra_info">Переключает загрузку внешних плагинов Cobra из /dev_usb000  </Text>
-	<Text name="msg_ask_external_cobra">Когда включено, контроллер может не подключиться к PS3.
+	<Text name="msg_ask_external_cobra">Когда включено, контроллер может не подключиться к PS3™.
 		Если это промхойдет, вам нужно выключить и включить контроллер в XMB. Вы уверены?
 
 		Нажмите  для продолжения или  для отмены</Text>
-	<Text name="msg_ps3_lifetime_title">Показать использование PS3</Text>
-	<Text name="msg_ps3_lifetime_info">Показывает количество дней PS3 была включена, количество включений и выключений  </Text>
+	<Text name="msg_ps3_lifetime_title">Показать использование PS3™</Text>
+	<Text name="msg_ps3_lifetime_info">Показывает количество дней PS3™ была включена, количество включений и выключений  </Text>
 	<Text name="msg_toggle_vsh_title">Переключить режим XMB</Text>
 	<Text name="msg_toggle_vsh_info">Переключает между режимами CEX и DEX XMB  </Text>
 	<Text name="msg_toggle_sysconf_title">Переключить настройки отладки</Text>
