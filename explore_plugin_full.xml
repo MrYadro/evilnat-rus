@@ -6,9 +6,9 @@
 	<Text name="msg_tool_rebug_file_info">УСТАНОВИТЬ необходимые инструменты для полного REBUG.</Text>
 	<Text name="msg_tool_psn_file"><![CDATA[★ Контент PlayStation™Network]]></Text>
 	<Text name="msg_tool_psn_file_info">Управляйте загруженным контентом PlayStation™Network.</Text>
-	<Text name="msg_tool_install_file_info">УСТАНОВИТЬ файлы пакетов из устройств хранения и из PS3™.</Text>
+	<Text name="msg_tool_install_file_info">УСТАНОВИТЬ файлы пакетов из устройств USB и из PS3™.</Text>
 	<Text name="msg_tool_delete_file"><![CDATA[★ Удалить пакеты]]></Text>
-	<Text name="msg_tool_delete_file_info">УДАЛИТЬ файлы пакетов с внешнего носителя и из PS3™.</Text>
+	<Text name="msg_tool_delete_file_info">УДАЛИТЬ файлы пакетов с устройств USB и из PS3™.</Text>
 	<Text name="msg_tool_hdd0_file">Системное хранилище PS3™</Text>
 	<Text name="msg_tool_hdd0_install_info">УСТАНОВИТЬ из папки [dev_hdd0/packages] вашей PS3™.</Text>
 	<Text name="msg_tool_hdd0_delete_info">УДАЛИТЬ из папки [dev_hdd0/packages] вашей PS3™.</Text>
@@ -16,8 +16,8 @@
 	<Text name="msg_tool_usb_install_info">УСТАНОВИТЬ из папки [packages] устройства USB.</Text>
 	<Text name="msg_tool_usb_delete_info">УДАЛИТЬ из папки [packages] устройства USB.</Text>
 	<Text name="msg_tool_og_file">Стандартные</Text>
-	<Text name="msg_tool_og_install_info">УСТАНОВИТЬ из папки [root] устройства USB.</Text>
-	<Text name="msg_tool_og_delete_info">УДАЛИТЬ из папки [root] устройства USB.</Text>
+	<Text name="msg_tool_og_install_info">УСТАНОВИТЬ из папки [корень] устройства USB.</Text>
+	<Text name="msg_tool_og_delete_info">УДАЛИТЬ из папки [корень] устройства USB.</Text>
 	<Text name="msg_tool_no_package">Пакеты не найдены.</Text>
 	<Text name="msg_tool_no_psn_content">Не найден контент PlayStation™Network.</Text>
 	<Text name="msg_cfw_settings_title"><![CDATA[★ Инструменты прошивки]]></Text>

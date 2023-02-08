@@ -148,9 +148,9 @@
 		Перазагрузитесь чтобы применить изменения</Text>
 	<Text name="msg_button_accept_o">Кнопка  [Принять]
 		Перазагрузитесь чтобы применить изменения</Text>
-	<Text name="msg_accountid_searching">Поиск accountID, пожалуйста подождите...</Text>
-	<Text name="msg_accountid_overwriting">Перезаписываем accountID, пожалуйста подождите...</Text>
-	<Text name="msg_accountid_creating">Создание accountID, пожалуйста подождите...</Text>
+	<Text name="msg_accountid_searching">Поиск accountID, подождите...</Text>
+	<Text name="msg_accountid_overwriting">Перезаписываем accountID, подождите...</Text>
+	<Text name="msg_accountid_creating">Создание accountID, подождите...</Text>
 	<Text name="msg_idps_not_valid">IDPS неверный</Text>
 	<Text name="msg_error_allocate_mem">Не удалось выделить память</Text>
 	<Text name="msg_error_map_mem">Не удалось выделить участок памяти</Text>
@@ -199,16 +199,16 @@
 	<Text name="msg_syscalls_already_disabled">Системные вызовы CFW уже выключены</Text>
 	<Text name="msg_syscalls_disabling_error">Ошибка выключения системных вызовов</Text>
 	<Text name="msg_hf_error">Ошибка при удалении файлов истории</Text>	
-	<Text name="msg_dumping_erk">Сохраняем ERK, пожалуйста подождите...</Text>
+	<Text name="msg_dumping_erk">Сохраняем ERK, подождите...</Text>
 	<Text name="msg_dump_erk_fail">Не удалось сохранить ERK. Попробуйте снова</Text>
 	<Text name="msg_dump_erk_ok">ERK сохранен в 
 		%s</Text>
 	<Text name="msg_unsupported_firmware">Неподдерживаемая прошивка</Text>
-	<Text name="msg_lv2_dumping">Сохраняем LV2, пожалуйста подождите...</Text>
+	<Text name="msg_lv2_dumping">Сохраняем LV2, подождите...</Text>
 	<Text name="msg_lv2_dumped">LV2 сохранен в
 		%s</Text>
 	<Text name="msg_lv2_dump_error">Ошибка при сохранении LV2</Text>
-	<Text name="msg_lv1_dumping">Сохраняем LV1, пожалуйста подождите...</Text>
+	<Text name="msg_lv1_dumping">Сохраняем LV1, подождите...</Text>
 	<Text name="msg_lv1_dumped">LV1 сохранен в
 		%s</Text>
 	<Text name="msg_lv1_dump_error">Ошибка при сохранении LV1</Text>
@@ -235,8 +235,8 @@
 	<Text name="msg_host_enabled">Информация о хосте будет отображаться в XMB, перезапускаемся...</Text>
 	<Text name="msg_host_disabled">Информация о хосте не будет отображаться в XMB, перезапускаемся...</Text>	
 	<Text name="msg_need_rebug_mode">Вам нужно быть в REBUG Mode</Text>	
-	<Text name="msg_loading_kernel">Загрузка ядра, пожалуйста подождите...</Text>
-	<Text name="msg_full_ram_dumping">Сохраняем RAM, это может занять 5 минут, пожалуйста подождите...</Text>
+	<Text name="msg_loading_kernel">Загрузка ядра, подождите...</Text>
+	<Text name="msg_full_ram_dumping">Сохраняем RAM, это может занять 5 минут, подождите...</Text>
 	<Text name="msg_full_ram_dumped">RAM сохранена в
 		%s</Text>
 	<Text name="msg_full_ram_dump_error">Произошла ошибка при сохранении RAM</Text>
@@ -249,7 +249,7 @@
 	<Text name="msg_otheros_resize_success">Размер изменен успешно. Перезапустите PS3™ для применения изменений</Text>
 	<Text name="msg_otheros_resize_vflash_error">Ошибка при изменении размера VFLASH</Text>
 	<Text name="msg_otheros_resize_flash_error">Ошибка при изменении размера FLASH</Text>
-	<Text name="msg_otheros_petitboot_installing">Устанавливаем petitboot, пожалуйста подождите...</Text>
+	<Text name="msg_otheros_petitboot_installing">Устанавливаем petitboot, подождите...</Text>
 	<Text name="msg_otheros_petitboot_success">Petitboot успешно установлен</Text>
 	<Text name="msg_otheros_petitboot_error">Ошибка при установке petitboot</Text>
 	<Text name="msg_otheros_nor_file_not_found">Не удалось найти dtbImage.ps3.bin на устройстве USB</Text>	
@@ -273,7 +273,7 @@
 		VSH: %s
 		XMB Host: %s
 		Настройки отладки: %s</Text>
-	<Text name="msg_dumping_flash">Сохраняем %s Flash, пожалуйста подождите...</Text>
+	<Text name="msg_dumping_flash">Сохраняем %s Flash, подождите...</Text>
 	<Text name="msg_dump_flash_error">Ошибка при сохранении %s Flash</Text>
 	<Text name="msg_dump_flash_ok">%s Flash сохранено в
 		%s</Text>
@@ -303,11 +303,11 @@
 	<Text name="msg_spoof_psid_error">Не удалось подделать PSID</Text>	
 	<Text name="msg_spoof_psid_lv2_error">Не удалось получить значения PSID из LV2</Text>	
 	<Text name="msg_spoof_psid_success">PSID подделан</Text>	
-	<Text name="msg_dump_sysrom_dumping">Сохраняем SYSROM, пожалуйста подождите...</Text>	
+	<Text name="msg_dump_sysrom_dumping">Сохраняем SYSROM, подождите...</Text>	
 	<Text name="msg_dump_sysrom_error">Ошибка при сохранении SYSROM</Text>
 	<Text name="msg_dump_sysrom_dump_success">SYSROM сохранен в
 		%s</Text>	
-	<Text name="msg_kernel_loading">Загружаем ядро LV2, пожалуйста подождите...</Text>
+	<Text name="msg_kernel_loading">Загружаем ядро LV2, подождите...</Text>
 	<Text name="msg_dump_sysrom_not_supported">Этот пункт только для PS3™ с NAND</Text>
 	<Text name="msg_prodg_patch_success">Патч успешен. Вы можете отлаживать VSH</Text>
 	<Text name="msg_prodg_patch_error">Ошибка при патче</Text>
@@ -349,7 +349,7 @@
 	<Text name="msg_not_enough_space">Недостаточно места на %s</Text>
 	<Text name="msg_dump_eeprom_done">Данные EEPROM сохранены в %s</Text>
 	<Text name="msg_dump_eeprom_error">Не удалось сохранить данный EEPROM</Text>	
-	<Text name="msg_dump_eeprom_wait">Сохраняем данные EEPROM, это может занять некоторое время, пожалуйста подождите...</Text>	
+	<Text name="msg_dump_eeprom_wait">Сохраняем данные EEPROM, это может занять некоторое время, подождите...</Text>	
 	<Text name="msg_sm_error_log_done">Логи SYSCON сохранены в %s</Text>	
 	<Text name="msg_sm_error_log_error">Не удалось сохранить логи SYSCON</Text>	
 	<Text name="msg_sm_error_log_warning_done">Логи SYSCON сохранены в %s</Text>	
