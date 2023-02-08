@@ -313,7 +313,7 @@
 	<Text name="msg_prodg_patch_error">Ошибка при патче</Text>
 	<Text name="msg_swap_kernel_dex">Ядро LV2 изменено на DEX/Debug. Перезапускаемся...</Text>
 	<Text name="msg_swap_kernel_cex">Ядро LV2 изменено на CEX/Retail. Перезапускаемся...</Text>
-	<Text name="msg_swap_kernel_error">Неподдерживаемое программне обеспечение или произошла ошибка</Text>
+	<Text name="msg_swap_kernel_error">Неподдерживаемое программное обеспечение или произошла ошибка</Text>
 	<Text name="msg_show_eid_target_error">Не удалось получить TargetID/EID</Text>
 	<Text name="msg_ps3_information_error">Не удалось получить информацию о PS3™</Text>
 	<Text name="msg_swap_kernel_unknown">Не удалось получить TargetID, отмена...</Text>
