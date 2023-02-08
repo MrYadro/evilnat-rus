@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TextLang>
-    <Text name="msg_tool_update_via_hdd"><![CDATA[★ Обновление с системного накопителя]]></Text>
+	<Text name="msg_tool_update_via_hdd"><![CDATA[★ Обновление с системного накопителя]]></Text>
 	<Text name="msg_tool_delete_updatedata_hdd"><![CDATA[★ Удалить обновления с системного накопителя]]></Text>
-    <Text name="msg_tool_select_updatedata_pls">Выберите обновление.</Text>
-    <Text name="msg_tool_select_updatedata_delete_pls">Выберите обновление для удаления.</Text>
-    <Text name="msg_tool_save_updatedata_hdd">Сохранить обновление на системный накопитель</Text>
+	<Text name="msg_tool_select_updatedata_pls">Выберите обновление.</Text>
+	<Text name="msg_tool_select_updatedata_delete_pls">Выберите обновление для удаления.</Text>
+	<Text name="msg_tool_save_updatedata_hdd">Сохранить обновление на системный накопитель</Text>
 </TextLang>
