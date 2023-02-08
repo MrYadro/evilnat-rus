@@ -6,6 +6,7 @@
 	<Text name="msg_tool_rebug_file_info">УСТАНОВИТЬ необходимые инструменты для полного REBUG.</Text>
 	<Text name="msg_tool_psn_file"><![CDATA[★ Контент PlayStation™Network]]></Text>
 	<Text name="msg_tool_psn_file_info">Управляйте загруженным контентом PlayStation™Network.</Text>
+	<Text name="msg_tool_install_file"><![CDATA[★ Установить пакеты]]></Text>
 	<Text name="msg_tool_install_file_info">УСТАНОВИТЬ файлы пакетов из устройств USB и из PS3™.</Text>
 	<Text name="msg_tool_delete_file"><![CDATA[★ Удалить пакеты]]></Text>
 	<Text name="msg_tool_delete_file_info">УДАЛИТЬ файлы пакетов с устройств USB и из PS3™.</Text>
@@ -452,4 +453,7 @@
 	<Text name="msg_dump_syscon_error_log_info">Сохраняет текущий лог ошибок SYSCON в /dev_usb или /dev_hdd0/tmp  </Text>
 	<Text name="msg_get_token_seed_title">Сохранить Token Seed</Text>
 	<Text name="msg_get_token_seed_info">Сохраняет текущий token seed в /dev_usb или /dev_hdd0/tmp  </Text>
+	<Text name="msg_tool_lock"><![CDATA[★ Закрыть]]></Text>
+	<Text name="msg_tool_unlock"><![CDATA[★ Открыть]]></Text>
+	<Text name="msg_tool_del"><![CDATA[★ Удалить]]></Text>
 </TextLang>
