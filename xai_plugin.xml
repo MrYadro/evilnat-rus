@@ -6,17 +6,17 @@
 	<Text name="msg_rifs_created">%d лицензий создано</Text>
 	<Text name="msg_nand_not_supported">Не поддержано в NAND</Text>
 	<Text name="msg_accountid_result">accountID: %s</Text>
-	<Text name="msg_accountid_fake">accountID: %s (FAKE)</Text>	
+	<Text name="msg_accountid_fake">accountID: %s (ПОДДЕЛЬНЫЙ)</Text>	
 	<Text name="msg_accountid_empty">accountID: Пустой</Text>		
 	<Text name="msg_create_syscalls_error">Невозможно создать системные вызовы</Text>
 	<Text name="msg_create_syscalls_ok">Созданы системные вызовы CFW</Text>
-	<Text name="msg_cobra_info">Тип прошивки FW: %s
+	<Text name="msg_cobra_info">Тип ПО: %s
 		Версия Cobra: %s
-		Версия Cobra FW: %2X.%02X</Text>	
+		Версия ПО Cobra: %2X.%02X</Text>	
 	<Text name="msg_cobra_is_disabled">Cobra выключена</Text>
-	<Text name="msg_cobra_not_supported">Cobra должна быть 8.3 или выше</Text>
+	<Text name="msg_cobra_not_supported">Cobra должна быть версии 8.3 или выше</Text>
 	<Text name="msg_logfile_cleaned">Файл логов очищен</Text>
-	<Text name="msg_logfile_error">Ошибка очистки</Text>
+	<Text name="msg_logfile_error">Ошибка очистки логов</Text>
 	<Text name="msg_klicensee_enabled">Логирование KLicensee включено</Text>
 	<Text name="msg_klicensee_disabled">Логирование KLicensee выключено</Text>
 	<Text name="msg_secureid_enabled">Логирование Secure File Id включено</Text>
@@ -34,8 +34,8 @@
 	<Text name="msg_devblind_unmount_error">Не удалось отключить dev_blind</Text>
 	<Text name="msg_raf_swap_mod_error">Не удалось подменить coldboot.raf</Text>
 	<Text name="msg_raf_swap_ori_error">Не удалось подменить стандартный coldboot.raf</Text>
-	<Text name="msg_sysconf_swap_mod_error">Не удалось включить "Информацию о системе"</Text>
-	<Text name="msg_sysconf_swap_ori_error">Не удалось включить стандартную "Информацию о системе"</Text>
+	<Text name="msg_sysconf_swap_mod_error">Не удалось включить [Информацию о системе]</Text>
+	<Text name="msg_sysconf_swap_ori_error">Не удалось включить стандартную [Информацию о системе]</Text>
 	<Text name="msg_dlna_set_flag_error">Не удалось установить флаг DLNA</Text>
 	<Text name="msg_dlna_enabled">DLNA включен</Text>
 	<Text name="msg_dlna_disabled">DLNA выключен</Text>
@@ -49,8 +49,8 @@
 	<Text name="msg_no_sysconf_detected">Не удалось найти sysconf_plugin.rco</Text>
 	<Text name="msg_mod_coldboot_enabled">Нестандартный coldboot включен</Text>
 	<Text name="msg_ori_coldboot_enabled">Оригинальный coldboot включен</Text>
-	<Text name="msg_mod_sysconf_enabled">Нестандартная "Информация о системе" включена</Text>
-	<Text name="msg_ori_sysconf_enabled">Оригинальная "Информация о системе" включена</Text>
+	<Text name="msg_mod_sysconf_enabled">Нестандартная [Информация о системе] включена</Text>
+	<Text name="msg_ori_sysconf_enabled">Оригинальная [Информация о системе] включена</Text>
 	<Text name="msg_act_backup_error">Не удалось создать резервную копию</Text>
 	<Text name="msg_act_unable_read">Не удалось прочитать файл активации</Text>
 	<Text name="msg_backup_created">Резервная копия создана в: 
@@ -60,7 +60,7 @@
 	<Text name="msg_devflash2_mount_error">Ошибка монтирования /dev_flash2</Text>
 	<Text name="msg_xregistry_backup_error">Не удалось создать резервную копию</Text>
 	<Text name="msg_usb_not_detected">Пожалуйста подключите устройство USB</Text>
-	<Text name="msg_fw_load_ok">LV2 Kernel poked</Text>
+	<Text name="msg_fw_load_ok">Ядро LV2 poked</Text>
 	<Text name="msg_pm_read_fail">Чтение флага Product Mode не удалось</Text>
 	<Text name="msg_vtrm_init_fail">Инициализация VTRM не удалась</Text>
 	<Text name="msg_vtrm_init_ok">Инициализация VTRM успешна</Text>
@@ -78,7 +78,7 @@
 	<Text name="msg_bdvd_ar_on_error">Ошибка включения BDVD Auto Request Sense</Text>
 	<Text name="msg_cex_drive_init_sblock_error">Не удалось CEX_drive_init_sblock()</Text>
 	<Text name="msg_cex_drive_init_aacs_error">Не удалось CEX_drive_init_AACS_HRL()</Text>
-	<Text name="msg_enable_fsm">Пожалуйста переключите Factory Service Mode</Text>
+	<Text name="msg_enable_fsm">Пожалуйста включите Factory Service Mode</Text>
 	<Text name="msg_cex_init_fail">Не удалось CEX_drive_init()</Text>
 	<Text name="msg_cex_init_ok">Успешное CEX_drive_init()</Text>
 	<Text name="msg_insert_disc">Вставьте диск с игрой</Text>
@@ -97,7 +97,7 @@
 	<Text name="msg_pm_enabled">Product Mode включен</Text>
 	<Text name="msg_pm_disabled">Product Mode выключен</Text>
 	<Text name="msg_eprom_unknown_flag">Неизвестный флаг EPROM</Text>
-	<Text name="msg_applicable_version_fail">Не удалось Applicable Version</Text>
+	<Text name="msg_applicable_version_fail">Не удалось получить версию для даунгрейда</Text>
 	<Text name="msg_sys_storage_open_error">Ошибка sys_storage_open</Text>
 	<Text name="msg_auth_bd_drive_error">Ошибка аутификации BD Drive</Text>
 	<Text name="msg_minimum_downgrade">Минимальный даунгрейд: %x.%02x</Text>
@@ -123,21 +123,21 @@
 	<Text name="msg_qa_toggle_error">Не удалось переключить QA флаги</Text>
 	<Text name="msg_savedata_sfo_not_valid">Неверный PARAM.SFO с: %s</Text>
 	<Text name="msg_savedata_pfd_not_valid">Неверный PARAM.PFD с: %s</Text>
-	<Text name="msg_savedata_unable_convert">Не удалось сконвертировать файлы сохранения с: %s</Text>
-	<Text name="msg_savedata_converted">%d файлы сохранения успешно сконвертированы
+	<Text name="msg_savedata_unable_convert">Не удалось преобразовать файлы сохранения с: %s</Text>
+	<Text name="msg_savedata_converted">%d файлы сохранения успешно преобразованы
 		Скопируйте их через XMB</Text>
-	<Text name="msg_savedata_converted2">%d файлы сохранения успешно сконвертированы
+	<Text name="msg_savedata_converted2">%d файлы сохранения успешно преобразованы
 		Скопируйте их через XMB</Text>
-	<Text name="msg_savedata_unable_open_dir">Не удалось открыть директорию: 
+	<Text name="msg_savedata_unable_open_dir">Не удалось открыть папку: 
 		%s</Text>
 	<Text name="msg_savedata_not_found">Файлы сохранения не найдены</Text>
 	<Text name="msg_savedata_userid_fail">Не удалось получить UserID из xRegistry для: %s</Text>
 	<Text name="msg_savedata_accountid_fail">Не удалось получить accountID из xRegistry для: %s</Text>
 	<Text name="msg_savedata_read_sfo_fail">Не удалось прочитать данные PARAM.SFO из: %s</Text>
 	<Text name="msg_savedata_read_pfd_fail">Не удалось прочитать данные PARAM.PFD из: %s</Text>
-	<Text name="msg_savedata_write_fail">Не удалось сохранить сконвертированный файл из: %s</Text>
-	<Text name="msg_savedata_converting">Конвертирование %s</Text>
-	<Text name="msg_savedata_converting_wait">Конвертирование, подождите...</Text>
+	<Text name="msg_savedata_write_fail">Не удалось сохранить преобразованный файл из: %s</Text>
+	<Text name="msg_savedata_converting">Преобразование %s</Text>
+	<Text name="msg_savedata_converting_wait">Преобразование, подождите...</Text>
 	<Text name="msg_xreg_open_error">Не удалось открыть xRegistry</Text>
 	<Text name="msg_accountid_unable_find">Не удалось найти текущий accountID</Text>
 	<Text name="msg_accountid_not_empty">accountID уже есть на этом аккаунте, используйте пункт деактивировать</Text>
@@ -158,14 +158,14 @@
 	<Text name="msg_error_unexpected">Неожиданная ошибка</Text>	
 	<Text name="msg_kernel_loaded">Ядро загружено, перезапускаемся...</Text>
 	<Text name="msg_kernel_failed">Не удалось загрузить ядро</Text>	
-	<Text name="msg_cobra_fan_ps2mode_disabled">Скорость вентилятора PS2 сохранена: ВЫКЛЮЧЕН</Text>
-	<Text name="msg_cobra_fan_ps2mode_syscon">Скорость вентилятора PS2 сохранена: SYSCON</Text>
-	<Text name="msg_cobra_fan_ps2mode_40">Скорость вентилятора PS2 сохранена: 40%</Text>
-	<Text name="msg_cobra_fan_ps2mode_50">Скорость вентилятора PS2 сохранена: 50%</Text>
-	<Text name="msg_cobra_fan_ps2mode_60">Скорость вентилятора PS2 сохранена: 60%</Text>
-	<Text name="msg_cobra_fan_ps2mode_70">Скорость вентилятора PS2 сохранена: 70%</Text>
-	<Text name="msg_cobra_fan_ps2mode_80">Скорость вентилятора PS2 сохранена: 80%</Text>
-	<Text name="msg_cobra_fan_ps2mode_90">Скорость вентилятора PS2 сохранена: 90%</Text>
+	<Text name="msg_cobra_fan_ps2mode_disabled">Скорость вентилятора PS2™ сохранена: ВЫКЛЮЧЕН</Text>
+	<Text name="msg_cobra_fan_ps2mode_syscon">Скорость вентилятора PS2™ сохранена: SYSCON</Text>
+	<Text name="msg_cobra_fan_ps2mode_40">Скорость вентилятора PS2™ сохранена: 40%</Text>
+	<Text name="msg_cobra_fan_ps2mode_50">Скорость вентилятора PS2™ сохранена: 50%</Text>
+	<Text name="msg_cobra_fan_ps2mode_60">Скорость вентилятора PS2™ сохранена: 60%</Text>
+	<Text name="msg_cobra_fan_ps2mode_70">Скорость вентилятора PS2™ сохранена: 70%</Text>
+	<Text name="msg_cobra_fan_ps2mode_80">Скорость вентилятора PS2™ сохранена: 80%</Text>
+	<Text name="msg_cobra_fan_ps2mode_90">Скорость вентилятора PS2™ сохранена: 90%</Text>
 	<Text name="msg_cobra_enable_account_activated">Аккаунт активирован</Text>
 	<Text name="msg_cobra_enable_account_error">Аккаунт не может быть активирован</Text>
 	<Text name="msg_cobra_create_empty">У этого аккаунта нет accountID. Создайте поддельный через "xRegistry Tools"</Text>
@@ -203,15 +203,15 @@
 	<Text name="msg_dump_erk_fail">Не удалось сохранить ERK. Попробуйте снова</Text>
 	<Text name="msg_dump_erk_ok">ERK сохранен в 
 		%s</Text>
-	<Text name="msg_unsupported_firmware">Неподдерживаемая прошивка</Text>
-	<Text name="msg_lv2_dumping">Сохраняем LV2, подождите...</Text>
-	<Text name="msg_lv2_dumped">LV2 сохранен в
+	<Text name="msg_unsupported_firmware">Неподдерживаемое программное обеспечение</Text>
+	<Text name="msg_lv2_dumping">Сохраняем ядро LV2, подождите...</Text>
+	<Text name="msg_lv2_dumped">Ядро LV2 сохранено в
 		%s</Text>
-	<Text name="msg_lv2_dump_error">Ошибка при сохранении LV2</Text>
-	<Text name="msg_lv1_dumping">Сохраняем LV1, подождите...</Text>
-	<Text name="msg_lv1_dumped">LV1 сохранен в
+	<Text name="msg_lv2_dump_error">Ошибка при сохранении ядра LV2</Text>
+	<Text name="msg_lv1_dumping">Сохраняем ядро LV1, подождите...</Text>
+	<Text name="msg_lv1_dumped">Ядро LV1 сохранено в
 		%s</Text>
-	<Text name="msg_lv1_dump_error">Ошибка при сохранении LV1</Text>
+	<Text name="msg_lv1_dump_error">Ошибка при сохранении ядра LV1</Text>
 	<Text name="msg_cfw_syscalls_disabled">Системные вызовы CFW выключены</Text>
 	<Text name="msg_syscall8_disabled">Системный вызов 8 выключен или частично выключен</Text>
 	<Text name="msg_syscall8_status_enabled">Системный вызов 8 включен</Text>	
@@ -294,14 +294,14 @@
 	<Text name="msg_spoof_idps_read_error">Не удалось прочитать файл IDPS.txt</Text>	
 	<Text name="msg_spoof_idps_get_error">Не удалось получить текущий IDPS</Text>	
 	<Text name="msg_spoof_idps_error">Не удалось подделать IDPS</Text>	
-	<Text name="msg_spoof_idps_lv2_error">Не удалось получить значения IDPS из LV2</Text>	
+	<Text name="msg_spoof_idps_lv2_error">Не удалось получить значения IDPS из ядра LV2</Text>	
 	<Text name="msg_spoof_idps_success">IDPS подделан</Text>	
 	<Text name="msg_spoof_psid_notfound_error">Не удалось найти файл PSID.txt</Text>	
 	<Text name="msg_spoof_psid_file_error">Не удалось открыть файл PSID.txt</Text>	
 	<Text name="msg_spoof_psid_read_error">Не удалось прочитать файл PSID.txt</Text>	
 	<Text name="msg_spoof_psid_get_error">Не удалось получить текущий PSID</Text>	
 	<Text name="msg_spoof_psid_error">Не удалось подделать PSID</Text>	
-	<Text name="msg_spoof_psid_lv2_error">Не удалось получить значения PSID из LV2</Text>	
+	<Text name="msg_spoof_psid_lv2_error">Не удалось получить значения PSID из ядра LV2</Text>	
 	<Text name="msg_spoof_psid_success">PSID подделан</Text>	
 	<Text name="msg_dump_sysrom_dumping">Сохраняем SYSROM, подождите...</Text>	
 	<Text name="msg_dump_sysrom_error">Ошибка при сохранении SYSROM</Text>
@@ -313,7 +313,7 @@
 	<Text name="msg_prodg_patch_error">Ошибка при патче</Text>
 	<Text name="msg_swap_kernel_dex">Ядро LV2 изменено на DEX/Debug. Перезапускаемся...</Text>
 	<Text name="msg_swap_kernel_cex">Ядро LV2 изменено на CEX/Retail. Перезапускаемся...</Text>
-	<Text name="msg_swap_kernel_error">Неподдерживаемая прошивка или произошла ошибка</Text>
+	<Text name="msg_swap_kernel_error">Неподдерживаемое программне обеспечение или произошла ошибка</Text>
 	<Text name="msg_show_eid_target_error">Не удалось получить TargetID/EID</Text>
 	<Text name="msg_ps3_information_error">Не удалось получить информацию о PS3™</Text>
 	<Text name="msg_swap_kernel_unknown">Не удалось получить TargetID, отмена...</Text>
